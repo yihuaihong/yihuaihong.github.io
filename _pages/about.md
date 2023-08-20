@@ -20,13 +20,9 @@ redirect_from:
 
 
 ## Hello, I am YihuaiHong, a third year undergraduate student at South China University of Technology. My research interests lie in Natural Language Processing and Language Models. 
-## I am conducting research on the accerlation of LM's inference under the supervision of <a href="https://ziqianzeng.github.io/" style="text-decoration: none;">Ziqian Zeng</a>. Meanwhile, in this summer I am visisting [UCL Web Intelligence Group](https://twitter.com/ucl_wi_group) & [SpaceTime Lab](https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/research/groups-centres-and-sections/spacetimelab) as a research intern with a focus on Large Language Models, under the supervision of [Aldo Lipani](https://aldolipani.com/). 
+## I am conducting research on the accerlation of Language Model's inference under the supervision of <a href="https://ziqianzeng.github.io/" style="text-decoration: none;">Ziqian Zeng</a>. Meanwhile, in this summer I am visisting <a href="https://twitter.com/ucl_wi_group" style="text-decoration: none;">UCL Web Intelligence Group</a> & <a href="https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/research/groups-centres-and-sections/spacetimelab" style="text-decoration: none;">SpaceTime Lab</a> as a research intern with a focus on Large Language Models, under the supervision of <a href="https://aldolipani.com/" style="text-decoration: none;">Aldo Lipani</a>. 
 ## I am also looking for a 24's Ph.D. opportunity now :).
 
-
-
-# 🔥 News
-- *2023.07*: &nbsp;🎉🎉 I join the 
 
 
 # 📝 Publications 
@@ -51,11 +47,14 @@ redirect_from:
 
 # 📖 Educations
 - *2020.09 - 2024.06(Expected), B.Eng. Candidate, School of Computer Science and Engineering, South China University of Technology
-- 
+
+# 💻 Internships
+- *2023.06 - *, Research Intern in [Web Intelligence Group](https://twitter.com/ucl_wi_group) & [SpaceTime Lab](https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/research/groups-centres-and-sections/spacetimelab), University College London, United Kingdom.
+
+
+<!-- # 🔥 News
+- *2023.07*: &nbsp;🎉🎉 I join the 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2023.06 - *, [Web Intelligence Group](https://twitter.com/ucl_wi_group) & [SpaceTime Lab](https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/research/groups-centres-and-sections/spacetimelab), University College London, United Kingdom.
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
