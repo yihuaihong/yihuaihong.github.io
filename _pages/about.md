@@ -17,9 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, I am YihuaiHong(洪奕槐), a third year undergraduate student in South China University of Technology.
+Hello, I am YihuaiHong, a third year undergraduate student in South China University of Technology.
 
 My research interest lies in Natural Language Processing and Language Models. 
+
+<span style="font-size: 24px;">Hello, I am YihuaiHong, a third year undergraduate student in South China University of Technology.</span>
+
+<span style="font-size: 18px;">My research interest lies in Natural Language Processing and Language Models.</span>
+
+# Hello, I am YihuaiHong, a third year undergraduate student in South China University of Technology.
+
+## My research interest lies in Natural Language Processing and Language Models.
+
 
 
 # 🔥 News
@@ -55,4 +64,4 @@ My research interest lies in Natural Language Processing and Language Models.
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2023.06 - *, [Lorem](https://github.com/), London, United Kingdom.
+- *2023.06 - *, [Web Intelligence Group](https://github.com/) & [SpaceTime Lab](https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/research/groups-centres-and-sections/spacetimelab), University College London, United Kingdom.
