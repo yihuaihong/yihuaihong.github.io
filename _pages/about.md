@@ -19,7 +19,7 @@ redirect_from:
 
 
 
-## Hello, I am YihuaiHong, a third year undergraduate student in South China University of Technology. My research interest lies in Natural Language Processing and Language Models. I am doing research on the LM dynamic inference accerlation under the supervision of [Ziqian Zeng](https://ziqianzeng.github.io/)
+## Hello, I am YihuaiHong, a third year undergraduate student at South China University of Technology. My research interests lie in Natural Language Processing and Language Models. I am conducting research on the accerlation of LM's inference under the supervision of Ziqian Zeng(https://ziqianzeng.github.io/).
 ## Meanwhile, I am visisting [UCL Web Intelligence Group](https://twitter.com/ucl_wi_group) & [SpaceTime Lab](https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/research/groups-centres-and-sections/spacetimelab) as a research intern under the supervision of [Aldo Lipani](https://aldolipani.com/). 
 ## I am also looking for a 24's Ph.D. opportunity now.
 
