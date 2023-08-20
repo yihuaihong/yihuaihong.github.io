@@ -17,17 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, I am YihuaiHong, a third year undergraduate student in South China University of Technology.
 
-My research interest lies in Natural Language Processing and Language Models. 
 
-<span style="font-size: 24px;">Hello, I am YihuaiHong, a third year undergraduate student in South China University of Technology.</span>
-
-<span style="font-size: 18px;">My research interest lies in Natural Language Processing and Language Models.</span>
-
-# Hello, I am YihuaiHong, a third year undergraduate student in South China University of Technology.
-
-## My research interest lies in Natural Language Processing and Language Models.
+## Hello, I am YihuaiHong, a third year undergraduate student in South China University of Technology. My research interest lies in Natural Language Processing and Language Models. 
+## What's more, I am also looking for a 24's Ph.D. opportunity.
 
 
 
