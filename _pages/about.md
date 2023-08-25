@@ -19,8 +19,8 @@ redirect_from:
 
 
 
-## Hello, I am Yihuai Hong, a third year undergraduate student at South China University of Technology. My research interests lie in Natural Language Processing and Language Models. 
-## I am conducting research on the accerlation of Language Model's inference under the supervision of <a href="https://ziqianzeng.github.io/" style="text-decoration: none;">Prof. Ziqian Zeng</a>. Meanwhile, in this summer I am visisting <a href="https://twitter.com/ucl_wi_group" style="text-decoration: none;">UCL Web Intelligence Group</a> & <a href="https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/research/groups-centres-and-sections/spacetimelab" style="text-decoration: none;">SpaceTime Lab</a> as a research intern with a focus on the area of Large Language Models, under the supervision of <a href="https://aldolipani.com/" style="text-decoration: none;">Prof. Aldo Lipani</a>. 
+## Hello, I am Yihuai Hong, a third-year undergraduate student at South China University of Technology. My research interests lie in Natural Language Processing and Language Models. 
+## Starting from my second year, I am conducting research on the acceleration of Language Model's inference under the supervision of <a href="https://ziqianzeng.github.io/" style="text-decoration: none;">Prof. Ziqian Zeng</a>. Meanwhile, in this summer I am visiting <a href="https://twitter.com/ucl_wi_group" style="text-decoration: none;">UCL Web Intelligence Group</a> & <a href="https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/research/groups-centres-and-sections/spacetimelab" style="text-decoration: none;">SpaceTime Lab</a> as a research intern with a focus on the area of Large Language Models, under the supervision of <a href="https://aldolipani.com/" style="text-decoration: none;">Prof. Aldo Lipani</a>. 
 ## I am also looking for a 24's Ph.D. opportunity now :)
 
 
@@ -45,20 +45,22 @@ Ziqian Zeng<sup>*</sup>, **Yihuai Hong<sup>*</sup>**, HongLiang Dai, Huiping Zhu
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-# 🎖 Honors and Awards
-- *2023.05* Meritorious Winner of The Mathematical Contest in Modeling (MCM).
-- *2022.10* SCUT First Prize Scholarship.
-- *2022.10* 37 Interactive Entertainment Yue+ Scholarship(Top 2 student of the academic year in the major). 
-- *2021.07* Kaggle Silver medal (Top 5%) - CommonLit Readability Prize: Rate the complexity of literary passages for grades 3-12 classroom use Kaggle.
-- *2022.03* Kaggle Bronze medal (Top 6%) - Evaluating Student Writing: Analyze argumentative writing elements from students grades 6-12. 
-
-
 # 📖 Educations
 - *2020.09 - 2024.06(Expected), B.Eng. Candidate, School of Computer Science and Engineering, South China University of Technology
 
 # 💻 Internships
 - *2023.06 - 2023.12, Research Intern in [Web Intelligence Group](https://twitter.com/ucl_wi_group) & [SpaceTime Lab](https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/research/groups-centres-and-sections/spacetimelab), University College London, United Kingdom.
+- 
+# 🎖 Honors and Awards
+- *2023.05* **Meritorious** Winner of The Mathematical Contest in Modeling (MCM).
+- *2022.10* SCUT First Prize Scholarship.
+- *2022.10* 37 Interactive Entertainment Yue+ Scholarship(Top 2 student of the academic year in the major). 
+- *2021.07* Kaggle **Silver** medal (Top 5%) - CommonLit Readability Prize: Rate the complexity of literary passages for grades 3-12 classroom use Kaggle.
+- *2022.03* Kaggle Bronze medal (Top 6%) - Evaluating Student Writing: Analyze argumentative writing elements from students grades 6-12. 
 
+# 📚 Patent 
+- *2022.09* Self-supervised pre-training method, system and medium for Chinese Pinyin spelling correction.
+IP No: 202211156374.3
 
 <!-- # 🔥 News
 - *2023.07*: &nbsp;🎉🎉 I join the 
