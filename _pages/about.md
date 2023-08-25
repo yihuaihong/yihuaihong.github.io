@@ -50,7 +50,7 @@ Ziqian Zeng<sup>*</sup>, **Yihuai Hong<sup>*</sup>**, HongLiang Dai, Huiping Zhu
 
 # 💻 Internships
 - *2023.06 - 2023.12, Research Intern in [Web Intelligence Group](https://twitter.com/ucl_wi_group) & [SpaceTime Lab](https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/research/groups-centres-and-sections/spacetimelab), University College London, United Kingdom.
-- 
+
 # 🎖 Honors and Awards
 - *2023.05* **Meritorious** Winner of The Mathematical Contest in Modeling (MCM).
 - *2022.10* SCUT First Prize Scholarship.
