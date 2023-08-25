@@ -36,7 +36,9 @@ Accelerating Language Models Inference](https://openaccess.thecvf.com/content_cv
 Ziqian Zeng<sup>*</sup>, **Yihuai Hong<sup>*</sup>**, HongLiang Dai, Huiping Zhuang, Cen Chen
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- We propose an early exiting method that can achieve consistency during training and inference by formulating the early exiting problem as a reinforcement learning problem.
+- We propose a concept named Memorized Layer to measure the hardness of an instance. We incorporate it into the reward function to allow an instance to balance the accuracy and acceleration depending on individual hardness.
+- The experimental results show that our method can outperform other baselines on natural language understanding and generation tasks.
 </div>
 </div>
 
