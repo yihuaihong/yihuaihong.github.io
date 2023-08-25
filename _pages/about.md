@@ -58,7 +58,7 @@ Ziqian Zeng<sup>*</sup>, **Yihuai Hong<sup>*</sup>**, HongLiang Dai, Huiping Zhu
 - *2021.07* Kaggle **Silver** medal (Top 5%) - CommonLit Readability Prize: Rate the complexity of literary passages for grades 3-12 classroom use Kaggle.
 - *2022.03* Kaggle Bronze medal (Top 6%) - Evaluating Student Writing: Analyze argumentative writing elements from students grades 6-12. 
 
-# 📚 Patent 
+# 📚 Patents 
 - *2022.09* Self-supervised pre-training method, system and medium for Chinese Pinyin spelling correction.
 IP No: 202211156374.3
 
