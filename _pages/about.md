@@ -52,10 +52,10 @@ Ziqian Zeng<sup>*</sup>, **Yihuai Hong<sup>*</sup>**, HongLiang Dai, Huiping Zhu
 - *2023.06 - 2023.12, Research Intern in [Web Intelligence Group](https://twitter.com/ucl_wi_group) & [SpaceTime Lab](https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/research/groups-centres-and-sections/spacetimelab), University College London, United Kingdom.
 
 # 🎖 Honors and Awards
-- *2022.09* **China National Scholarship** (top 0.1%). <!-- SCUT First Prize Scholarship -->
+- *2023.09* **China National Scholarship** (top 0.1%). <!-- SCUT First Prize Scholarship -->
 - *2023.05* **Meritorious** Winner of The Mathematical Contest in Modeling (MCM).
 - *2022.09* SCUT First Prize Scholarship. <!-- SCUT First Prize Scholarship -->
-- *2022.10* 37-Interactive Entertainment Yue+ Scholarship(Top 2 student of the academic year in the major). 
+- *2022.09* 37-Interactive Entertainment Yue+ Scholarship(Top 2 student of the academic year in the major). 
 - *2021.07* Kaggle **Silver** medal (Top 5%) - CommonLit Readability Prize: Rate the complexity of literary passages for grades 3-12 classroom use Kaggle.
 - *2022.03* Kaggle Bronze medal (Top 6%) - Evaluating Student Writing: Analyze argumentative writing elements from students grades 6-12. 
 
