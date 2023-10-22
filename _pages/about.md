@@ -49,8 +49,8 @@ Ziqian Zeng<sup>*</sup>, **Yihuai Hong<sup>*</sup>**, HongLiang Dai, Huiping Zhu
 - *2020.09 - 2024.06(Expected), B.Eng. Candidate, School of Computer Science and Engineering, South China University of Technology
 
 # 💻 Internships
-- *2023.06 - 2023.12, Research Intern in [Web Intelligence Group](https://twitter.com/ucl_wi_group) & [SpaceTime Lab](https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/research/groups-centres-and-sections/spacetimelab), Supervisor: Prof. Aldo Lipani, University College London, United Kingdom.
-- *2022.06 - present, Research Intern in Shien-Ming Wu School of Intelligent Engineering, Supervisor: Prof. Ziqian Zeng, South China University of Technology, China.
+- *2023.06 - 2023.12, Research Intern in [Web Intelligence Group](https://twitter.com/ucl_wi_group) & [SpaceTime Lab](https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/research/groups-centres-and-sections/spacetimelab), Supervisor: <a href="https://aldolipani.com/" style="text-decoration: none;">Prof. Aldo Lipani</a>, University College London, United Kingdom.
+- *2022.06 - present, Research Intern in Shien-Ming Wu School of Intelligent Engineering, Supervisor: <a href="https://ziqianzeng.github.io/" style="text-decoration: none;">Prof. Ziqian Zeng</a>, South China University of Technology, China.
 
 # 🎖 Honors and Awards
 - *2023.09* **China National Scholarship** (top 0.1%). <!-- SCUT First Prize Scholarship -->
