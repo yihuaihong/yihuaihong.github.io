@@ -49,7 +49,7 @@ Ziqian Zeng<sup>*</sup>, **Yihuai Hong<sup>*</sup>**, Huiping Zhuang, Cen Chen, 
 - 2020.09 - 2024.06(Expected), B.Eng. Candidate, School of Computer Science and Engineering, South China University of Technology
 
 # 💻 Internships
-- 2023.11 - 2024.01, Research Intern in [International Digital Economy Academy (IDEA)](https://www.idea.edu.cn/), Supervisor: <a href="https://hqyang.github.io/" style="text-decoration: none;">Prof. Haiqin Yang</a>, Shenzhen, China.
+<!--- 2023.11 - 2024.01, Research Intern in [International Digital Economy Academy (IDEA)](https://www.idea.edu.cn/), Supervisor: <a href="https://hqyang.github.io/" style="text-decoration: none;">Prof. Haiqin Yang</a>, Shenzhen, China.-->
 - 2023.06 - 2023.12, Research Intern in [Web Intelligence Group](https://twitter.com/ucl_wi_group) & [SpaceTime Lab](https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/research/groups-centres-and-sections/spacetimelab), Supervisor: <a href="https://aldolipani.com/" style="text-decoration: none;">Prof. Aldo Lipani</a>, University College London, United Kingdom.
 - 2022.06 - present, Research Intern in Shien-Ming Wu School of Intelligent Engineering, Supervisor: <a href="https://ziqianzeng.github.io/" style="text-decoration: none;">Prof. Ziqian Zeng</a>, South China University of Technology, China.
 
