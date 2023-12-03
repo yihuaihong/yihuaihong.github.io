@@ -54,6 +54,14 @@ Ziqian Zeng<sup>*</sup>, **Yihuai Hong<sup>*</sup>**, Huiping Zhuang, Cen Chen, 
 - 2022.06 - present, Research Intern in Shien-Ming Wu School of Intelligent Engineering, Supervisor: <a href="https://ziqianzeng.github.io/" style="text-decoration: none;">Prof. Ziqian Zeng</a>, South China University of Technology, China.
 
 # 🎖 Honors and Awards
+- *2023.11* <span style="color: black; font-weight: bold;">Top Ten Excellent Students Nomination Award of South China University of Technology</span>.
+- *2023.09* <span style="color: black; font-weight: bold;">China National Scholarship</span> (top 0.1%). <!-- SCUT First Prize Scholarship -->
+- *2023.05* <span style="color: black; font-weight: bold;">Meritorious</span> Winner of The Mathematical Contest in Modeling (MCM).
+- *2022.09* <span style="color: black; font-weight: bold;">37-Interactive Entertainment Yue+ Scholarship</span> (Top 2 student of the academic year in the major). 
+- *2021.07* Kaggle <span style="color: black; font-weight: bold;">Silver</span> medal (Top 5%) - CommonLit Readability Prize: Rate the complexity of literary passages for grades 3-12 classroom use Kaggle.
+- *2022.03* Kaggle <span style="color: black; font-weight: bold;">Bronze</span> medal (Top 6%) - Evaluating Student Writing: Analyze argumentative writing elements from students grades 6-12.
+
+
 - *2023.11* **Top Ten Excellent Students Nomination Award of South China University of Technology**.
 - *2023.09* **China National Scholarship** (top 0.1%). <!-- SCUT First Prize Scholarship -->
 - *2023.05* **Meritorious** Winner of The Mathematical Contest in Modeling (MCM).
