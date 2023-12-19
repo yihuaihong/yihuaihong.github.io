@@ -56,13 +56,13 @@ Ziqian Zeng<sup>*</sup>, <span style="color: black; font-weight: bold;">Yihuai H
 - 2022.06 - present, Research Intern in Shien-Ming Wu School of Intelligent Engineering, Supervisor: <a href="https://ziqianzeng.github.io/" style="text-decoration: none;">Prof. Ziqian Zeng</a>, South China University of Technology, China.
 
 # 🎖 Honors and Awards
-- *2023.11* AAAI-24 Student scholarship
-- *2023.11* <span style="color: black; font-weight: bold;">Top Ten Excellent Students Nomination Award</span> of South China University of Technology.
-- *2023.09* <span style="color: black; font-weight: bold;">China National Scholarship</span> (top 0.1%). <!-- SCUT First Prize Scholarship -->
-- *2023.05* <span style="color: black; font-weight: bold;">Meritorious</span> Winner of The Mathematical Contest in Modeling (MCM).
-- *2022.09* 37-Interactive Entertainment Yue+ Scholarship (Top 2 student of the academic year in the major). 
-- *2021.07* Kaggle <span style="color: black; font-weight: bold;">Silver</span> medal (Top 5%) - CommonLit Readability Prize: Rate the complexity of literary passages for grades 3-12 classroom use Kaggle.
-- *2022.03* Kaggle Bronze medal (Top 6%) - Evaluating Student Writing: Analyze argumentative writing elements from students grades 6-12.
+- *2023.12* AAAI-24 Student Scholarship
+- *2023.11* <span style="color: black; font-weight: bold;">Top Ten Excellent Students Nomination Award</span> of South China University of Technology
+- *2023.09* <span style="color: black; font-weight: bold;">China National Scholarship</span> (top 0.1%) <!-- SCUT First Prize Scholarship -->
+- *2023.05* <span style="color: black; font-weight: bold;">Meritorious</span> Winner of The Mathematical Contest in Modeling (MCM)
+- *2022.09* 37-Interactive Entertainment Yue+ Scholarship (Top 2 student of the academic year in the major) 
+- *2021.07* Kaggle <span style="color: black; font-weight: bold;">Silver</span> medal (Top 5%) - CommonLit Readability Prize: Rate the complexity of literary passages for grades 3-12 classroom use Kaggle
+- *2022.03* Kaggle Bronze medal (Top 6%) - Evaluating Student Writing: Analyze argumentative writing elements from students grades 6-12
 
 # 📚 Patents 
 - *2022.09* Self-supervised pre-training method, system and medium for Chinese Pinyin spelling correction.
