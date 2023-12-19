@@ -24,7 +24,7 @@ redirect_from:
 ## I am also looking for a 24's Ph.D. opportunity now :)
 
 # 🔥 News
-- 2023.12: &nbsp;🎉🎉 My first work is accepted to <span style="color: black; font-weight: bold;">AAAI 2024</span>! And I also won the <span style="color: black; font-weight: bold;">AAAI 2024 Student Scholarship</span>. I am genuinely thankful to Prof. Zeng for guiding me and for her help along this path!
+- 2023.12: &nbsp;🎉🎉 My first work is accepted to <span style="color: black; font-weight: bold;">AAAI 2024</span> and I also won the <span style="color: black; font-weight: bold;">AAAI 2024 Student Scholarship</span>! I am genuinely thankful to Prof. Zeng for guiding me and for her help along this path!
 
 
 # 📝 Publications 
