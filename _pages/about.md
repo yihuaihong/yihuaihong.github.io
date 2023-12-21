@@ -33,7 +33,7 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 
 [ConsistentEE: A Consistent and Hardness-Guided Early Exiting Method for
-Accelerating Language Models Inference](https://www.researchgate.net/publication/373392419_ConsistentEE_A_Consistent_and_Hardness-Guided_Early_Exiting_Method_for_Accelerating_Language_Models_Inference)
+Accelerating Language Models Inference](https://arxiv.org/abs/2312.11882)
 
 Ziqian Zeng<sup>*</sup>, <span style="color: black; font-weight: bold;">Yihuai Hong<sup>*</sup></span>, Huiping Zhuang, Cen Chen, HongLiang Dai
 
