@@ -20,7 +20,7 @@ redirect_from:
 
 
 ## Hello, I am Yihuai Hong, a fourth-year undergraduate student at South China University of Technology. My research interests lie in Natural Language Processing and Language Models. 
-## Starting from my second year, I am conducting research on the acceleration of Language Model's inference under the supervision of <a href="https://ziqianzeng.github.io/" style="text-decoration: none;">Prof. Ziqian Zeng</a>. Meanwhile, in this summer I am visiting <a href="https://twitter.com/ucl_wi_group" style="text-decoration: none;">UCL Web Intelligence Group</a> & <a href="https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/research/groups-centres-and-sections/spacetimelab" style="text-decoration: none;">SpaceTime Lab</a> as a research intern with a focus on the area of Large Language Models, under the supervision of <a href="https://aldolipani.com/" style="text-decoration: none;">Prof. Aldo Lipani</a>. 
+## Starting from my second year, I am conducting research on the acceleration of Language Model's inference under the supervision of <a href="https://ziqianzeng.github.io/" style="text-decoration: none;">Prof. Ziqian Zeng</a>. Meanwhile, in this summer I am visiting <a href="https://twitter.com/ucl_wi_group" style="text-decoration: none;">UCL Web Intelligence Group</a> & <a href="https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/research/groups-centres-and-sections/spacetimelab" style="text-decoration: none;">SpaceTime Lab</a> as a research intern with a focus on the area of Knowledge Editing on Large Language Models, under the supervision of <a href="https://aldolipani.com/" style="text-decoration: none;">Prof. Aldo Lipani</a>. 
 ## I am also looking for a 24's Ph.D. opportunity now :)
 
 # 🔥 News
