@@ -32,6 +32,26 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/Main Structure.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+[Intrinsic Evaluation of Unlearning Using Parametric Knowledge Traces](https://arxiv.org/abs/2406.11614) 
+
+<span style="color: black; font-weight: bold;">Yihuai Hong</span>, Lei Yu, Shauli Ravfogel, Haiqin Yang, Mor Geva
+
+Under Review, 2024.06 
+
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/editing1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/Main Structure.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 [ConsistentEE: A Consistent and Hardness-Guided Early Exiting Method for
 Accelerating Language Models Inference](https://arxiv.org/abs/2312.11882)
 
