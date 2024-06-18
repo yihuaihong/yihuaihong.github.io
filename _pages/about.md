@@ -30,7 +30,17 @@ redirect_from:
 # 📝 Publications 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='https://github.com/yihuaihong/ConceptVectors.github.io/blob/main/static/images/unlearning_concept_vectors_v3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[Intrinsic Evaluation of Unlearning Using Parametric Knowledge Traces](https://arxiv.org/abs/2406.11614) 
+
+<span style="color: black; font-weight: bold;">Yihuai Hong</span>, Lei Yu, Shauli Ravfogel, Haiqin Yang, Mor Geva
+
+Under Review, 2024.06 
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/Main Structure.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
