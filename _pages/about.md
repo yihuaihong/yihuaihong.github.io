@@ -34,9 +34,11 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/unlearning_concept_vectors_v3.png' alt="sym" width="130%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Intrinsic Evaluation of Unlearning Using Parametric Knowledge Traces](https://arxiv.org/abs/2406.11614) 
+[Intrinsic Evaluation of Unlearning Using Parametric Knowledge Traces](https://yihuaihong.github.io/ConceptVectors.github.io/)  
 
 <span style="color: black; font-weight: bold;">Yihuai Hong</span>, Lei Yu, Shauli Ravfogel, Haiqin Yang, Mor Geva
+
+[Website](https://yihuaihong.github.io/ConceptVectors.github.io) | [Arxiv](https://arxiv.org/pdf/2406.11614) | [GitHub](https://github.com/yourgithub) | [Hugging Face](https://huggingface.co/datasets/YihuaiHong/ConceptVectors)
 
 Under Review, 2024.06 
 
