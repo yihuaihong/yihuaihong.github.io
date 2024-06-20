@@ -38,7 +38,7 @@ redirect_from:
 
 <span style="color: black; font-weight: bold;">Yihuai Hong</span>, Lei Yu, Shauli Ravfogel, Haiqin Yang, Mor Geva
 
-[Website](https://yihuaihong.github.io/ConceptVectors.github.io)/[Arxiv](https://arxiv.org/pdf/2406.11614)/[GitHub](https://github.com/yourgithub)
+[Website](https://yihuaihong.github.io/ConceptVectors.github.io)/[Arxiv](https://arxiv.org/pdf/2406.11614)/[GitHub](https://github.com/yourgithub)/[Huggingface](https://huggingface.co/datasets/YihuaiHong/ConceptVectors)
 
 Under Review, 2024.06 
 
@@ -57,7 +57,7 @@ Accelerating Language Models Inference](https://arxiv.org/abs/2312.11882)
 
 Ziqian Zeng<sup>*</sup>, <span style="color: black; font-weight: bold;">Yihuai Hong<sup>*</sup></span>, Huiping Zhuang, Cen Chen, HongLiang Dai
 
-[Arxiv](https://arxiv.org/abs/2312.11882) | [GitHub](https://github.com/ZeroNLP/ConsistentEE)
+[Arxiv](https://arxiv.org/abs/2312.11882)/[GitHub](https://github.com/ZeroNLP/ConsistentEE)
 
 The 38th Annual AAAI Conference on Artificial Intelligence
 
