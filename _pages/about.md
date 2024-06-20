@@ -31,7 +31,7 @@ redirect_from:
 # 📝 Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/unlearning_concept_vectors_v3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/unlearning_concept_vectors_v3.png' alt="sym" width="130%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Intrinsic Evaluation of Unlearning Using Parametric Knowledge Traces](https://arxiv.org/abs/2406.11614) 
@@ -39,6 +39,10 @@ redirect_from:
 <span style="color: black; font-weight: bold;">Yihuai Hong</span>, Lei Yu, Shauli Ravfogel, Haiqin Yang, Mor Geva
 
 Under Review, 2024.06 
+
+- Our findings reveal that current unlearning methods only modify the model's behavior without truly erasing the encoded knowledge in its parameters.
+- To address this, we present the ConceptVectors Benchmark, where each vector is closely tied to a specific concept. It is consist of 285 concept vectors on two open-source LLMs.
+- Directly ablating these vectors demonstrably removes the associated knowledge from the LLMs and significantly reduces their susceptibility to adversarial manipulation. Our results highlight limitations in behavioral-based unlearning evaluations and call for future work to include parametric-based evaluations.
 
 </div>
 </div>
