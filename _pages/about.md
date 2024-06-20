@@ -38,7 +38,7 @@ redirect_from:
 
 <span style="color: black; font-weight: bold;">Yihuai Hong</span>, Lei Yu, Shauli Ravfogel, Haiqin Yang, Mor Geva
 
-[Website](https://yihuaihong.github.io/ConceptVectors.github.io) | [Arxiv](https://arxiv.org/pdf/2406.11614) | [GitHub](https://github.com/yourgithub) | [Hugging Face](https://huggingface.co/datasets/YihuaiHong/ConceptVectors)
+[Website](https://yihuaihong.github.io/ConceptVectors.github.io) | [Arxiv](https://arxiv.org/pdf/2406.11614) | [GitHub](https://github.com/yourgithub)
 
 Under Review, 2024.06 
 
