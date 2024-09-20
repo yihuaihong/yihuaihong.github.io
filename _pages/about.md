@@ -94,7 +94,7 @@ Under Review, 2023.12
 - 2020.09 - 2024.06(Expected), B.Eng. Candidate, School of Computer Science and Engineering, South China University of Technology
 
 # 💻 Internships
-- 2024.08 - present, Research Intern in [DAMO Academy](https://github.com/DAMO-NLP-SG) in Alibaba Group, Supervisor: <a href="https://lidongbing.github.io/" style="text-decoration: none;">Dr. Lidong Bing</a> and <a href="https://isakzhang.github.io" style="text-decoration: none;">Dr. Wenxuan Zhang</a>, Hangzhou, China. 
+- 2024.08 - present, Research Intern in [Alibaba DAMO Academy](https://github.com/DAMO-NLP-SG), Supervisor: <a href="https://lidongbing.github.io/" style="text-decoration: none;">Dr. Lidong Bing</a> and <a href="https://isakzhang.github.io" style="text-decoration: none;">Dr. Wenxuan Zhang</a>, Hangzhou, China. 
 - 2023.11 - 2024.01, Research Intern in [International Digital Economy Academy (IDEA)](https://www.idea.edu.cn/), Supervisor: <a href="https://hqyang.github.io/" style="text-decoration: none;">Prof. Haiqin Yang</a>, Shenzhen, China. 
 - 2023.06 - 2023.12, Research Intern in [UCL AI Centre](https://www.ucl.ac.uk/ai-centre/ucl-centre-artificial-intelligence) & [Web Intelligence Group](https://wi.cs.ucl.ac.uk/), Supervisor: <a href="https://aldolipani.com/" style="text-decoration: none;">Prof. Aldo Lipani</a>, University College London, United Kingdom.
 - 2022.06 - 2023.08, Research Intern in Shien-Ming Wu School of Intelligent Engineering, Supervisor: <a href="https://ziqianzeng.github.io/" style="text-decoration: none;">Prof. Ziqian Zeng</a>, South China University of Technology, China.
