@@ -81,7 +81,7 @@ Ziqian Zeng<sup>*</sup>, <span style="color: black; font-weight: bold;">Yihuai H
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
-Existing Knowledge Editing methods, spanning model's parameters modification, external knowledge integration, and in-context learning, lack in-depth analysis from a model interpretability perspective. Our work explores the instability in in-context learning outcomes, providing insights into its reasons and distinctions from other methods. Leveraging findings on the critical role of feed-forward MLPs in decoder-only models, we propose a tailored knowledge editing method, TailoredKE, that considers the unique information flow of each sample. Model interpretability reveals diverse attribute recall across transformer layers, guiding edits to specific features at different depths and mitigating over-editing issues.
+Our work explores the instability in in-context learning-based Knowledge Editing outcomes, providing insights into its reasons and distinctions from other Knowledge Editing methods. Leveraging findings on the critical role of feed-forward MLPs in decoder-only models, we propose a tailored knowledge editing method, TailoredKE, that considers the unique information flow of each sample. Model interpretability reveals diverse attribute recall across transformer layers, guiding edits to specific features at different depths and mitigating over-editing issues.
 </div>
 </div>
 
