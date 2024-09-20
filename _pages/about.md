@@ -45,7 +45,7 @@ Under Review, 2024.06
 
 - Our findings reveal that current unlearning methods only modify the model's behavior without truly erasing the encoded knowledge in its parameters.
 - To address this, we present the ConceptVectors Benchmark, where each vector is closely tied to a specific concept. It is consist of 285 concept vectors on two open-source LLMs.
-- Directly ablating these vectors demonstrably removes the associated knowledge from the LLMs and significantly reduces their susceptibility to adversarial manipulation. Our results highlight limitations in behavioral-based unlearning evaluations and call for future work to include parametric-based evaluations.
+- Directly ablating these vectors demonstrably removes the associated knowledge from the LLMs and significantly reduces their susceptibility to adversarial manipulation.
 
 </div>
 </div>
