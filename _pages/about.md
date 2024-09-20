@@ -32,7 +32,7 @@ redirect_from:
 # 📝 Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/unlearning_concept_vectors_v3.png' alt="sym" width="130%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='https://github.com/yihuaihong/ConceptVectors.github.io/blob/main/static/images/unlearning_data_process.pdf' alt="sym" width="130%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Intrinsic Evaluation of Unlearning Using Parametric Knowledge Traces](https://yihuaihong.github.io/ConceptVectors.github.io/)  
@@ -60,7 +60,7 @@ Ziqian Zeng<sup>*</sup>, <span style="color: black; font-weight: bold;">Yihuai H
 
 [Arxiv](https://arxiv.org/abs/2312.11882) / [GitHub](https://github.com/ZeroNLP/ConsistentEE)
 
-The 38th Annual AAAI Conference on Artificial Intelligence
+<span style="color: black; font-weight: bold;">AAAI 2024 Main Track</span>
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
@@ -70,20 +70,33 @@ The 38th Annual AAAI Conference on Artificial Intelligence
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/editing1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/main structure.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Interpretability-based Tailored Knowledge Editing in Transformers](https://drive.google.com/file/d/1EQgIWd827Ezg25DmB_1g9w-P3O4gWFGX/view?usp=sharing)
 
 <span style="color: black; font-weight: bold;">Yihuai Hong</span>, Aldo Lipani
 
-Under Review, 2023.12  
+<span style="color: black; font-weight: bold;">EMNLP 2024 Main</span>
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
-<!-- - We propose an early exiting method that can achieve consistency during training and inference by formulating the early exiting problem as a reinforcement learning problem.
-- We propose a concept named Memorized Layer to measure the hardness of an instance. We incorporate it into the reward function to allow an instance to balance the accuracy and acceleration depending on individual hardness.
-- The experimental results show that our method can outperform other baselines on natural language understanding and generation tasks. -->
+<Existing Knowledge Editing methods, spanning model's parameters modification, external knowledge integration, and in-context learning, lack in-depth analysis from a model interpretability perspective. Our work explores the instability in in-context learning outcomes, providing insights into its reasons and distinctions from other methods. Leveraging findings on the critical role of feed-forward MLPs in decoder-only models, we propose a tailored knowledge editing method, TailoredKE, that considers the unique information flow of each sample. Model interpretability reveals diverse attribute recall across transformer layers, guiding edits to specific features at different depths and mitigating over-editing issues.>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/editing1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Dissecting Fine-Tuning Unlearning in Large Language Models]()
+
+<span style="color: black; font-weight: bold;">Yihuai Hong</span>, Yuelin Zou, Lijie Hu, Ziqian Zeng, Di Wang, Haiqin Yang
+
+<span style="color: black; font-weight: bold;">EMNLP 2024 Main</span>
+
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+
+<In this paper, we delve into the limitations of fine-tuning-based unlearning through activation patching and parameter restoration experiments. Our findings reveal that these methods alter the model's knowledge retrieval process, rather than genuinely erasing the problematic knowledge embedded in the model parameters. Furthermore, behavioral tests demonstrate that the unlearning mechanisms inevitably impact the global behavior of the models, affecting unrelated knowledge or capabilities.>
 </div>
 </div>
 
