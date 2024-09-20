@@ -24,7 +24,7 @@ redirect_from:
 ## I am looking for 25's Ph.D. opportunities and Research Internship now :)
 
 # 🔥 News
-- 2024.09: &nbsp;🎉🎉 My two new <span style="color: black; font-weight: bold;">1st-author</span> papers both have been accepted to <span style="color: black; font-weight: bold;">EMNLP 2024 main track</span>! "Dissecting Fine-Tuning Unlearning in Large Language Models" and "Interpretability-based Tailored Knowledge Editing in Transformers"! Feel so grateful to all my mentors and collaborators. See you in Miami!
+- 2024.09: &nbsp;🎉🎉 My <span style="color: black; font-weight: bold;">two new 1st-author</span> papers both have been accepted to <span style="color: black; font-weight: bold;">EMNLP 2024 main track</span>! "Dissecting Fine-Tuning Unlearning in Large Language Models" and "Interpretability-based Tailored Knowledge Editing in Transformers"! Feel so grateful to all my mentors and collaborators. See you in Miami!
 - 2024.06: &nbsp;🚀🚀 Please check my newest paper! <span style="color: black; font-weight: bold;">[Intrinsic Evaluation of Unlearning Using Parametric Knowledge Traces](https://arxiv.org/abs/2406.11614) </span> This is the <span style="color: black; font-weight: bold;">first-ever parametric LLM Unlearning Benchmark!</span> Thanks to the guidance from Prof. Mor Geva and the help of other collaborators.
 - 2023.12: &nbsp;🎉🎉 My first work is accepted to <span style="color: black; font-weight: bold;">AAAI 2024 main track</span> and I also won the <span style="color: black; font-weight: bold;">AAAI-24 Student Scholarship</span>! I am genuinely thankful to Prof. Zeng for guiding me and for her help along this path!
 
