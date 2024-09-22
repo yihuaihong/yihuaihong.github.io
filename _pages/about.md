@@ -120,7 +120,9 @@ In this paper, we delve into the limitations of fine-tuning-based unlearning thr
 
 # 📚 Patents 
 - *2022.09* Self-supervised pre-training method, system and medium for Chinese Pinyin spelling correction.
-IP No: 202211156374.3
+
+# 💬 Academic Services 
+- Program Committee: ICLR (2025), AAAI (2024), ACL ARR (Feb. 2024 - June. 2024)
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
