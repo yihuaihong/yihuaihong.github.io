@@ -20,7 +20,7 @@ blackirect_from:
 
 ## Hello, I am Yihuai Hong, a fourth-year undergraduate student at South China University of Technology. My research interests lie in Natural Language Processing and Language Models.
 
-## My research story revolves around the <span style="color:black; font-weight:bold;">Mechanistic Interpretability and Understanding of LLMs</span>, especially how <span style="color:black; font-weight:bold;">"Knowledge"</span> and <span style="color:black; font-weight:bold;">"Reasoning"</span> are formed and processed in LLMs, which can further be mapped to the other adjacent areas such as <span style="color:black; font-weight:bold;">LLM Safety</span>, <span style="color:black; font-weight:bold;">Knowledge Editing</span>, various <span style="color:black; font-weight:bold;">Reasoning capabilities</span> of LLMs and so on.
+## My research story revolves around the <span style="color:black; font-weight:bold;">Mechanistic Interpretability and Understanding of LLMs</span>, especially how <span style="color:black; font-weight:bold;">"Knowledge"</span> and <span style="color:black; font-weight:bold;">"Reasoning"</span> are formed and processed in LLMs, which can further be mapped to the other adjacent areas such as <span style="color:black; font-weight:bold;">LLM Safety</span>, <span style="color:black; font-weight:bold;">Knowledge Editing</span>, various <span style="color:black; font-weight:bold;">Reasoning capabilities</span> of LLMs and so on:
 - Interpretability × Memorized Knowledge
      - LLM Safety (LLM Unlearning)
           - Parametric Knowledge Benchmark [[ConceptVectors](#conceptvectors)]
@@ -30,7 +30,12 @@ blackirect_from:
      - LLM Efficient Inference [[AAAI 2204 main track](#consistentee)]
 - Interpretability × Reasoning [Things in Progress..]
 
-## These days I am very fortunate to work with <a href="https://mega002.github.io/" style="text-decoration: none;">Prof. Mor Geva Pipek</a> from Tel Aviv University and Google Reseach on LLM Unlearning. And starting from my second year, I was conducting research on the acceleration of Language Model's inference under the supervision of <a href="https://ziqianzeng.github.io/" style="text-decoration: none;">Prof. Ziqian Zeng</a>. Meanwhile, last summer I was visiting <a href="https://www.ucl.ac.uk/ai-centre/ucl-centre-artificial-intelligence" style="text-decoration: none;">UCL AI Centre</a> & <a href="https://wi.cs.ucl.ac.uk/" style="text-decoration: none;">Web Intelligence Group</a> as a research intern with a focus on the area of Knowledge Editing on Large Language Models, under the supervision of <a href="https://aldolipani.com/" style="text-decoration: none;">Prof. Aldo Lipani</a>. 
+## I am very fortunate to work with many excellent Researchers: This year I am very fortunate to work with <a href="https://mega002.github.io/" style="text-decoration: none;">Prof. Mor Geva Pipek</a> from Tel Aviv University and Google Research on LLM Unlearning, with <a href="https://zhijing-jin.com/fantasy" style="text-decoration: none;">Prof. Zhijin Jin</a> from University of Toronto on Mechanistic understanding of Reasoning. Now I am also a research intern at Alibaba DAMO Academy working with <a href="https://lidongbing.github.io" style="text-decoration: none;">Dr. Lidong Bing</a>. ## Last summer, I interned at <a href="https://www.ucl.ac.uk/ai-centre/ucl-centre-artificial-intelligence" style="text-decoration: none;">UCL AI Centre</a> working on Knowledge Editing with <a href="https://aldolipani.com/" style="text-decoration: none;">Prof. Aldo Lipani</a>. I started my research career in the second year of undergraduate studies under the supervision of <a href="https://ziqianzeng.github.io/" style="text-decoration: none;">Prof. Ziqian Zeng</a>.
+
+<!-- -And starting from my second year, I was conducting research on the acceleration of Language Model's inference under the supervision of <a href="https://ziqianzeng.github.io/" style="text-decoration: none;">Prof. Ziqian Zeng</a>. Meanwhile, last summer I was visiting <a href="https://www.ucl.ac.uk/ai-centre/ucl-centre-artificial-intelligence" style="text-decoration: none;">UCL AI Centre</a> & <a href="https://wi.cs.ucl.ac.uk/" style="text-decoration: none;">Web Intelligence Group</a> as a research intern with a focus on the area of Knowledge Editing on Large Language Models, under the supervision of <a href="https://aldolipani.com/" style="text-decoration: none;">Prof. Aldo Lipani</a>. -->
+
+
+
   
 ## I am looking for 25's Ph.D. opportunities and Research Internship now :)
 
