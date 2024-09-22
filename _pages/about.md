@@ -20,7 +20,7 @@ redirect_from:
 
 ## Hello, I am Yihuai Hong, a fourth-year undergraduate student at South China University of Technology. My research interests lie in Natural Language Processing and Language Models.
 
-## My research story revolves around the **Mechanistic Interpretability and Understanding of LLMs**, especially how **"Knowledge"** and **"Reasoning"** are formed and processed in LLMs, which can further be mapped to the other adjacent areas such as **LLM Safety**, **Knowledge Editing**, various **Reasoning capabilities** of LLMs and so on.
+## My research story revolves around the <span style="color:red; font-weight:bold;">Mechanistic Interpretability and Understanding of LLMs</span>, especially how <span style="color:red; font-weight:bold;">"Knowledge"</span> and <span style="color:red; font-weight:bold;">"Reasoning"</span> are formed and processed in LLMs, which can further be mapped to the other adjacent areas such as <span style="color:red; font-weight:bold;">LLM Safety</span>, <span style="color:red; font-weight:bold;">Knowledge Editing</span>, various <span style="color:red; font-weight:bold;">Reasoning capabilities</span> of LLMs and so on.
 - Interpretability × Memorized Knowledge
      - LLM Safety
           - Parametric Knowledge Benchmark [[ConceptVectors](#conceptvectors)]
