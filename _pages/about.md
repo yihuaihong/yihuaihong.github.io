@@ -3,7 +3,7 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+blackirect_from: 
   - /about/
   - /about.html
 ---
@@ -20,7 +20,7 @@ redirect_from:
 
 ## Hello, I am Yihuai Hong, a fourth-year undergraduate student at South China University of Technology. My research interests lie in Natural Language Processing and Language Models.
 
-## My research story revolves around the <span style="color:red; font-weight:bold;">Mechanistic Interpretability and Understanding of LLMs</span>, especially how <span style="color:red; font-weight:bold;">"Knowledge"</span> and <span style="color:red; font-weight:bold;">"Reasoning"</span> are formed and processed in LLMs, which can further be mapped to the other adjacent areas such as <span style="color:red; font-weight:bold;">LLM Safety</span>, <span style="color:red; font-weight:bold;">Knowledge Editing</span>, various <span style="color:red; font-weight:bold;">Reasoning capabilities</span> of LLMs and so on.
+## My research story revolves around the <span style="color:black; font-weight:bold;">Mechanistic Interpretability and Understanding of LLMs</span>, especially how <span style="color:black; font-weight:bold;">"Knowledge"</span> and <span style="color:black; font-weight:bold;">"Reasoning"</span> are formed and processed in LLMs, which can further be mapped to the other adjacent areas such as <span style="color:black; font-weight:bold;">LLM Safety</span>, <span style="color:black; font-weight:bold;">Knowledge Editing</span>, various <span style="color:black; font-weight:bold;">Reasoning capabilities</span> of LLMs and so on.
 - Interpretability × Memorized Knowledge
      - LLM Safety (LLM Unlearning)
           - Parametric Knowledge Benchmark [[ConceptVectors](#conceptvectors)]
@@ -37,7 +37,7 @@ redirect_from:
 
 
 # 🔥 News
-- 2024.09: &nbsp;🎉🎉 My <span style="color: black; font-weight: bold;">two new 1st-author</span> papers both have been accepted to <span style="color: black; font-weight: bold;">EMNLP 2024 Main</span>! "Dissecting Fine-Tuning Unlearning in Large Language Models" and "Interpretability-based Tailored Knowledge Editing in Transformers"! Feel so grateful to all my mentors and collaborators. See you in Miami!
+- 2024.09: &nbsp;🎉🎉 My <span style="color: black; font-weight: bold;">two new 1st-author</span> papers both have been accepted to <span style="color: black; font-weight: bold;">EMNLP 2024 Main</span>! "Dissecting Fine-Tuning Unlearning in Large Language Models" and "Interpretability-based Tailoblack Knowledge Editing in Transformers"! Feel so grateful to all my mentors and collaborators. See you in Miami!
 - 2024.06: &nbsp;🚀🚀 Please check my newest paper! <span style="color: black; font-weight: bold;">[Intrinsic Evaluation of Unlearning Using Parametric Knowledge Traces](https://arxiv.org/abs/2406.11614) </span> This is the <span style="color: black; font-weight: bold;">first-ever parametric LLM Unlearning Benchmark!</span> Thanks to the guidance from Prof. Mor Geva and the help of other collaborators.
 - 2023.12: &nbsp;🎉🎉 My first work is accepted to <span style="color: black; font-weight: bold;">AAAI 2024 main track</span> and I also won the <span style="color: black; font-weight: bold;">AAAI-24 Student Scholarship</span>! I am genuinely thankful to Prof. Zeng for guiding me and for her help along this path!
 
@@ -57,7 +57,7 @@ Under Review, 2024.06
 
 - Our findings reveal that current unlearning methods only modify the model's behavior without truly erasing the encoded knowledge in its parameters.
 - To address this, we present the ConceptVectors Benchmark, where each vector is closely tied to a specific concept. It is consist of 285 concept vectors on two open-source LLMs.
-- Directly ablating these vectors demonstrably removes the associated knowledge from the LLMs and significantly reduces their susceptibility to adversarial manipulation.
+- Directly ablating these vectors demonstrably removes the associated knowledge from the LLMs and significantly blackuces their susceptibility to adversarial manipulation.
 
 </div>
 </div>
@@ -85,7 +85,7 @@ Ziqian Zeng<sup>*</sup>, <span style="color: black; font-weight: bold;">Yihuai H
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024 Main</div><img src='images/main structure_page-0001.jpg' alt="sym" width="110%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<a id="knowledge-editing">[Interpretability-based Tailored Knowledge Editing in Transformers](https://drive.google.com/file/d/1EQgIWd827Ezg25DmB_1g9w-P3O4gWFGX/view?usp=sharing)</a>
+<a id="knowledge-editing">[Interpretability-based Tailoblack Knowledge Editing in Transformers](https://drive.google.com/file/d/1EQgIWd827Ezg25DmB_1g9w-P3O4gWFGX/view?usp=sharing)</a>
 
 <span style="color: black; font-weight: bold;">Yihuai Hong</span>, Aldo Lipani
 
@@ -93,7 +93,7 @@ Ziqian Zeng<sup>*</sup>, <span style="color: black; font-weight: bold;">Yihuai H
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
-Our work explores the instability in in-context learning-based Knowledge Editing outcomes, providing insights into its reasons and distinctions from other Knowledge Editing methods. Leveraging findings on the critical role of feed-forward MLPs in decoder-only models, we propose a tailored knowledge editing method, TailoredKE, that considers the unique information flow of each sample. Model interpretability reveals diverse attribute recall across transformer layers, guiding edits to specific features at different depths and mitigating over-editing issues.
+Our work explores the instability in in-context learning-based Knowledge Editing outcomes, providing insights into its reasons and distinctions from other Knowledge Editing methods. Leveraging findings on the critical role of feed-forward MLPs in decoder-only models, we propose a tailoblack knowledge editing method, TailoblackKE, that considers the unique information flow of each sample. Model interpretability reveals diverse attribute recall across transformer layers, guiding edits to specific features at different depths and mitigating over-editing issues.
 </div>
 </div>
 
