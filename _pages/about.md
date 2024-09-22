@@ -18,18 +18,19 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-
 ## Hello, I am Yihuai Hong, a fourth-year undergraduate student at South China University of Technology. My research interests lie in Natural Language Processing and Language Models.
-## These days I am very fortunate to work with <a href="https://mega002.github.io/" style="text-decoration: none;">Prof. Mor Geva Pipek</a> from Tel Aviv University and Google Reseach on LLM Unlearning. And starting from my second year, I was conducting research on the acceleration of Language Model's inference under the supervision of <a href="https://ziqianzeng.github.io/" style="text-decoration: none;">Prof. Ziqian Zeng</a>. Meanwhile, last summer I was visiting <a href="https://www.ucl.ac.uk/ai-centre/ucl-centre-artificial-intelligence" style="text-decoration: none;">UCL AI Centre</a> & <a href="https://wi.cs.ucl.ac.uk/" style="text-decoration: none;">Web Intelligence Group</a> as a research intern with a focus on the area of Knowledge Editing on Large Language Models, under the supervision of <a href="https://aldolipani.com/" style="text-decoration: none;">Prof. Aldo Lipani</a>. 
 
-## My research story revolves around the Mechanistic Interpretability and Understanding of LLMs, especially how "Knowledge" and "Reasoning" are formed and processed in LLMs, which can further be mapped to the other adjacent areas such as LLM Safety, Knowledge Editing, various Reasoning capabilities of LLMs and so on.
-- Interpretability × LLM Safety
-     - Parametric Knowledge Benchmark [ConceptVectors](https://arxiv.org/pdf/2406.11614)
-     - Analyze Finetuning Unlearning  [EMNLP 2024 Main]
-     - LLM Unlearning methods [Things in Progress..]
-- Interpretability × Knowledge Editing [EMNLP 2024 Main](https://drive.google.com/file/d/1EQgIWd827Ezg25DmB_1g9w-P3O4gWFGX/view?usp=sharing)
-- Interpretability × LLM Efficient Inference [AAAI 2204 main track](https://arxiv.org/abs/2312.11882)
+## My research story revolves around the **Mechanistic Interpretability and Understanding of LLMs**, especially how **"Knowledge"** and **"Reasoning"** are formed and processed in LLMs, which can further be mapped to the other adjacent areas such as **LLM Safety**, **Knowledge Editing**, various **Reasoning capabilities** of LLMs and so on.
+- Interpretability × Memorizaed Knowledge
+     - LLM Safety
+            - Parametric Knowledge Benchmark [[ConceptVectors](https://arxiv.org/pdf/2406.11614)]
+            - Analyze Finetuning Unlearning  [EMNLP 2024 Main]
+            - LLM Unlearning methods [Things in Progress..]
+     - Knowledge Editing [[EMNLP 2024 Main](https://drive.google.com/file/d/1EQgIWd827Ezg25DmB_1g9w-P3O4gWFGX/view?usp=sharing)]
+     - LLM Efficient Inference [[AAAI 2204 main track](https://arxiv.org/abs/2312.11882)]
 - Interpretability × Reasoning [Things in Progress..]
+
+## These days I am very fortunate to work with <a href="https://mega002.github.io/" style="text-decoration: none;">Prof. Mor Geva Pipek</a> from Tel Aviv University and Google Reseach on LLM Unlearning. And starting from my second year, I was conducting research on the acceleration of Language Model's inference under the supervision of <a href="https://ziqianzeng.github.io/" style="text-decoration: none;">Prof. Ziqian Zeng</a>. Meanwhile, last summer I was visiting <a href="https://www.ucl.ac.uk/ai-centre/ucl-centre-artificial-intelligence" style="text-decoration: none;">UCL AI Centre</a> & <a href="https://wi.cs.ucl.ac.uk/" style="text-decoration: none;">Web Intelligence Group</a> as a research intern with a focus on the area of Knowledge Editing on Large Language Models, under the supervision of <a href="https://aldolipani.com/" style="text-decoration: none;">Prof. Aldo Lipani</a>. 
   
 ## I am looking for 25's Ph.D. opportunities and Research Internship now :)
 
