@@ -118,11 +118,11 @@ In this paper, we delve into the limitations of fine-tuning-based unlearning thr
 - *2021.07* Kaggle <span style="color: black; font-weight: bold;">Silver</span> medal (Top 5%) - CommonLit Readability Prize: Rate the complexity of literary passages for grades 3-12 classroom use Kaggle
 - *2022.03* Kaggle Bronze medal (Top 6%) - Evaluating Student Writing: Analyze argumentative writing elements from students grades 6-12
 
-# 📚 Patents 
-- *2022.09* Self-supervised pre-training method, system and medium for Chinese Pinyin spelling correction.
-
 # 💬 Academic Services 
 - Program Committee: ICLR (2025), AAAI (2024), ACL ARR (Feb. 2024 - June. 2024)
+  
+# 📚 Patents 
+- *2022.09* Self-supervised pre-training method, system and medium for Chinese Pinyin spelling correction.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
