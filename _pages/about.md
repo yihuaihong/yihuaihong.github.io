@@ -22,11 +22,14 @@ redirect_from:
 ## Hello, I am Yihuai Hong, a fourth-year undergraduate student at South China University of Technology. My research interests lie in Natural Language Processing and Language Models, especially in the localization of different types of knowledge within language models. 
 ## These days I am very fortunate to work with <a href="https://mega002.github.io/" style="text-decoration: none;">Prof. Mor Geva Pipek</a> from Tel Aviv University and Google Reseach on LLM Unlearning. And starting from my second year, I was conducting research on the acceleration of Language Model's inference under the supervision of <a href="https://ziqianzeng.github.io/" style="text-decoration: none;">Prof. Ziqian Zeng</a>. Meanwhile, last summer I was visiting <a href="https://www.ucl.ac.uk/ai-centre/ucl-centre-artificial-intelligence" style="text-decoration: none;">UCL AI Centre</a> & <a href="https://wi.cs.ucl.ac.uk/" style="text-decoration: none;">Web Intelligence Group</a> as a research intern with a focus on the area of Knowledge Editing on Large Language Models, under the supervision of <a href="https://aldolipani.com/" style="text-decoration: none;">Prof. Aldo Lipani</a>. 
 
-## My research story revolves around the Mechanistic Interpretability and Understanding of LLMs, especially about how "Knowledge" and "Reasoning" are formed and processed in LLMs, which can further be mapped to the other adjacent areas such as LLM Safety, Knowledge Editing, various reasoning capabilities of LLMs and so on.
-- LLM Safety × Interpretability [ConceptVectors, EMNLP 2024 Main, Things in Progress]
-- Knowledge Editing × Interpretability [EMNLP 2024 Main]
-- Reasoning × Interpretability [Things in Progress..]
-- LLM Efficient Inference × Interpretability [AAAI 2204 main track]
+## My research story revolves around the Mechanistic Interpretability and Understanding of LLMs, especially how "Knowledge" and "Reasoning" are formed and processed in LLMs, which can further be mapped to the other adjacent areas such as LLM Safety, Knowledge Editing, various reasoning capabilities of LLMs and so on.
+- Interpretability × LLM Safety
+     - Parametric Knowledge Benchmark [ConceptVectors]
+     - Analyze Finetuning Unlearning  [EMNLP 2024 Main]
+     - LLM Unlearning methods [Things in Progress..]
+- Interpretability × Knowledge Editing [EMNLP 2024 Main]
+- Interpretability × LLM Efficient Inference [AAAI 2204 main track]
+- Interpretability × Reasoning [Things in Progress..]
   
 ## I am looking for 25's Ph.D. opportunities and Research Internship now :)
 
