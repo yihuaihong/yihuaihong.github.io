@@ -21,10 +21,10 @@ redirect_from:
 ## Hello, I am Yihuai Hong, a fourth-year undergraduate student at South China University of Technology. My research interests lie in Natural Language Processing and Language Models.
 
 ## My research story revolves around the **Mechanistic Interpretability and Understanding of LLMs**, especially how **"Knowledge"** and **"Reasoning"** are formed and processed in LLMs, which can further be mapped to the other adjacent areas such as **LLM Safety**, **Knowledge Editing**, various **Reasoning capabilities** of LLMs and so on.
-- Interpretability × Memorizaed Knowledge
+- Interpretability × Memorized Knowledge
      - LLM Safety
           - Parametric Knowledge Benchmark [[ConceptVectors](https://arxiv.org/pdf/2406.11614)]
-          - Analyze Finetuning Unlearning  [EMNLP 2024 Main]
+          - Analyze Finetuning Unlearning  [[EMNLP 2024 Main](#finetuning-unlearning)]
           - LLM Unlearning methods [Things in Progress..]
      - Knowledge Editing [[EMNLP 2024 Main](https://drive.google.com/file/d/1EQgIWd827Ezg25DmB_1g9w-P3O4gWFGX/view?usp=sharing)]
      - LLM Efficient Inference [[AAAI 2204 main track](https://arxiv.org/abs/2312.11882)]
@@ -100,7 +100,7 @@ Our work explores the instability in in-context learning-based Knowledge Editing
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024 Main</div><img src='images/experiment structure_page-0001.jpg' alt="sym" width="110%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Dissecting Fine-Tuning Unlearning in Large Language Models]()
+<a id="finetuning-unlearning">[Dissecting Fine-Tuning Unlearning in Large Language Models]()</a>
 
 <span style="color: black; font-weight: bold;">Yihuai Hong</span>, Yuelin Zou, Lijie Hu, Ziqian Zeng, Di Wang, Haiqin Yang
 
