@@ -3,8 +3,8 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "Publications"
-    url: "/#-publications"
+  - title: "Research"
+    url: "/#-research"
 
   - title: "Educations"
     url: "/#-educations"
@@ -15,5 +15,8 @@ main:
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
+  - title: "Academic Services"
+    url: "/#-academic-services"
+    
   - title: "Patents"
     url: "/#-patents"
