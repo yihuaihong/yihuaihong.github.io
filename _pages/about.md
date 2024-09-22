@@ -22,7 +22,7 @@ redirect_from:
 
 ## My research story revolves around the <span style="color:red; font-weight:bold;">Mechanistic Interpretability and Understanding of LLMs</span>, especially how <span style="color:red; font-weight:bold;">"Knowledge"</span> and <span style="color:red; font-weight:bold;">"Reasoning"</span> are formed and processed in LLMs, which can further be mapped to the other adjacent areas such as <span style="color:red; font-weight:bold;">LLM Safety</span>, <span style="color:red; font-weight:bold;">Knowledge Editing</span>, various <span style="color:red; font-weight:bold;">Reasoning capabilities</span> of LLMs and so on.
 - Interpretability × Memorized Knowledge
-     - LLM Safety
+     - LLM Safety (LLM Unlearning)
           - Parametric Knowledge Benchmark [[ConceptVectors](#conceptvectors)]
           - Analyze Finetuning Unlearning  [[EMNLP 2024 Main](#finetuning-unlearning)]
           - LLM Unlearning methods [Things in Progress..]
