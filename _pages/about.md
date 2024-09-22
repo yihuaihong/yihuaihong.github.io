@@ -24,7 +24,7 @@ blackirect_from:
 - Interpretability × Memorized Knowledge
      - LLM Safety (LLM Unlearning)
           - Parametric Knowledge Benchmark [[ConceptVectors](#conceptvectors)]
-          - Analyze Finetuning Unlearning  [[EMNLP 2024 Main](#finetuning-unlearning)]
+          - Dissect Finetuning Unlearning  [[EMNLP 2024 Main](#finetuning-unlearning)]
           - LLM Unlearning methods [Things in Progress..]
      - Knowledge Editing [[EMNLP 2024 Main](#knowledge-editing)]
      - LLM Efficient Inference [[AAAI 2204 main track](#consistentee)]
