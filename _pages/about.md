@@ -133,7 +133,7 @@ In this paper, we delve into the limitations of fine-tuning-based unlearning thr
 - *2021.07* Kaggle <span style="color: black; font-weight: bold;">Silver</span> medal (Top 5%) - CommonLit Readability Prize: Rate the complexity of literary passages for grades 3-12 classroom use Kaggle
 - *2022.03* Kaggle Bronze medal (Top 6%) - Evaluating Student Writing: Analyze argumentative writing elements from students grades 6-12
 
-# 💬 Academic Services 
+# 🙋‍♂️ Academic Services 
 - Program Committee: ICLR (2025), AAAI (2024), ACL ARR (Feb. 2024 - June. 2024)
   
 # 📚 Patents 
