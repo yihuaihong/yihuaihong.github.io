@@ -23,11 +23,11 @@ redirect_from:
 ## My research story revolves around the **Mechanistic Interpretability and Understanding of LLMs**, especially how **"Knowledge"** and **"Reasoning"** are formed and processed in LLMs, which can further be mapped to the other adjacent areas such as **LLM Safety**, **Knowledge Editing**, various **Reasoning capabilities** of LLMs and so on.
 - Interpretability × Memorized Knowledge
      - LLM Safety
-          - Parametric Knowledge Benchmark [[ConceptVectors](https://arxiv.org/pdf/2406.11614)]
+          - Parametric Knowledge Benchmark [[ConceptVectors](#conceptvectors)]
           - Analyze Finetuning Unlearning  [[EMNLP 2024 Main](#finetuning-unlearning)]
           - LLM Unlearning methods [Things in Progress..]
-     - Knowledge Editing [[EMNLP 2024 Main](https://drive.google.com/file/d/1EQgIWd827Ezg25DmB_1g9w-P3O4gWFGX/view?usp=sharing)]
-     - LLM Efficient Inference [[AAAI 2204 main track](https://arxiv.org/abs/2312.11882)]
+     - Knowledge Editing [[EMNLP 2024 Main](#knowledge-editing)]
+     - LLM Efficient Inference [[AAAI 2204 main track](#consistentee)]
 - Interpretability × Reasoning [Things in Progress..]
 
 ## These days I am very fortunate to work with <a href="https://mega002.github.io/" style="text-decoration: none;">Prof. Mor Geva Pipek</a> from Tel Aviv University and Google Reseach on LLM Unlearning. And starting from my second year, I was conducting research on the acceleration of Language Model's inference under the supervision of <a href="https://ziqianzeng.github.io/" style="text-decoration: none;">Prof. Ziqian Zeng</a>. Meanwhile, last summer I was visiting <a href="https://www.ucl.ac.uk/ai-centre/ucl-centre-artificial-intelligence" style="text-decoration: none;">UCL AI Centre</a> & <a href="https://wi.cs.ucl.ac.uk/" style="text-decoration: none;">Web Intelligence Group</a> as a research intern with a focus on the area of Knowledge Editing on Large Language Models, under the supervision of <a href="https://aldolipani.com/" style="text-decoration: none;">Prof. Aldo Lipani</a>. 
@@ -47,7 +47,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/unlearn_data_process2_page-0001.jpg' alt="sym" width="110%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Intrinsic Evaluation of Unlearning Using Parametric Knowledge Traces](https://yihuaihong.github.io/ConceptVectors.github.io/)  
+<a id="conceptvectors">[Intrinsic Evaluation of Unlearning Using Parametric Knowledge Traces](https://yihuaihong.github.io/ConceptVectors.github.io/)</a>  
 
 <span style="color: black; font-weight: bold;">Yihuai Hong</span>, Lei Yu, Shauli Ravfogel, Haiqin Yang, Mor Geva
 
@@ -65,8 +65,8 @@ Under Review, 2024.06
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/Main Structure.png' alt="sym" width="110%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ConsistentEE: A Consistent and Hardness-Guided Early Exiting Method for
-Accelerating Language Models Inference](https://arxiv.org/abs/2312.11882)
+<a id="consistentee">[ConsistentEE: A Consistent and Hardness-Guided Early Exiting Method for
+Accelerating Language Models Inference](https://arxiv.org/abs/2312.11882)</a>
 
 Ziqian Zeng<sup>*</sup>, <span style="color: black; font-weight: bold;">Yihuai Hong<sup>*</sup></span>, Huiping Zhuang, Cen Chen, HongLiang Dai
 
@@ -85,11 +85,11 @@ Ziqian Zeng<sup>*</sup>, <span style="color: black; font-weight: bold;">Yihuai H
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024 Main</div><img src='images/main structure_page-0001.jpg' alt="sym" width="110%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Interpretability-based Tailored Knowledge Editing in Transformers](https://drive.google.com/file/d/1EQgIWd827Ezg25DmB_1g9w-P3O4gWFGX/view?usp=sharing)
+<a id="knowledge-editing">[Interpretability-based Tailored Knowledge Editing in Transformers](https://drive.google.com/file/d/1EQgIWd827Ezg25DmB_1g9w-P3O4gWFGX/view?usp=sharing)</a>
 
 <span style="color: black; font-weight: bold;">Yihuai Hong</span>, Aldo Lipani
 
-<span style="color: black; font-weight: bold;">EMNLP 2024 Main</span>
+<span style="color: black; font-weight: bold;">EMNLP 2024 Main</span> (will be released soon)
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
@@ -104,7 +104,7 @@ Our work explores the instability in in-context learning-based Knowledge Editing
 
 <span style="color: black; font-weight: bold;">Yihuai Hong</span>, Yuelin Zou, Lijie Hu, Ziqian Zeng, Di Wang, Haiqin Yang
 
-<span style="color: black; font-weight: bold;">EMNLP 2024 Main</span>
+<span style="color: black; font-weight: bold;">EMNLP 2024 Main</span> (will be released soon)
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
