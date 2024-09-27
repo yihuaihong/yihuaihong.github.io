@@ -121,8 +121,8 @@ In this paper, we delve into the limitations of fine-tuning-based unlearning thr
 - 2020.09 - 2024.06, Bachelor of Engineering, School of Computer Science and Engineering, South China University of Technology
 
 # 💻 Internships
-- 2024.09 - present, Research Intern in University of Toronto, Supervisor: <a href="https://zhijing-jin.com/fantasy/" style="text-decoration: none;">Prof. Zhijin Jin</a>, Canada(Remote). 
-- 2024.08 - present, Research Intern in [Alibaba DAMO Academy](https://github.com/DAMO-NLP-SG), Supervisor: <a href="https://lidongbing.github.io/" style="text-decoration: none;">Dr. Lidong Bing</a> and <a href="https://isakzhang.github.io" style="text-decoration: none;">Dr. Wenxuan Zhang</a>, Hangzhou, China.
+- 2024.07 - present, Research Intern in University of Toronto, Supervisor: <a href="https://zhijing-jin.com/fantasy/" style="text-decoration: none;">Prof. Zhijin Jin</a>, Canada(Remote). 
+- 2024.09 - present, Research Intern in [Alibaba DAMO Academy](https://github.com/DAMO-NLP-SG), Supervisor: <a href="https://lidongbing.github.io/" style="text-decoration: none;">Dr. Lidong Bing</a> and <a href="https://isakzhang.github.io" style="text-decoration: none;">Dr. Wenxuan Zhang</a>, Hangzhou, China.
 - 2024.02 - 2024.08, Research Intern in Tel Aviv University, Supervisor: <a href="https://mega002.github.io/" style="text-decoration: none;">Prof. Mor Geva</a>, Israel(Remote). 
 - 2023.11 - 2024.02, Research Intern in [China International Digital Economy Academy](https://www.idea.edu.cn/), Supervisor: <a href="https://hqyang.github.io/" style="text-decoration: none;">Prof. Haiqin Yang</a>, Shenzhen, China. 
 - 2023.06 - 2023.12, Research Intern in [UCL AI Centre](https://www.ucl.ac.uk/ai-centre/ucl-centre-artificial-intelligence) & [Web Intelligence Group](https://wi.cs.ucl.ac.uk/), Supervisor: <a href="https://aldolipani.com/" style="text-decoration: none;">Prof. Aldo Lipani</a>, United Kingdom.
