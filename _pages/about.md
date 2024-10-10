@@ -65,7 +65,7 @@ Preprint, 2024.06
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024 Main</div><img src='images/dissect-ft-unlearning.png' alt="sym" width="110%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024 Main</div><img src='images/dissect-ft-unlearning.jpg' alt="sym" width="110%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a id="finetuning-unlearning">[Dissecting Fine-Tuning Unlearning in Large Language Models]()</a>
