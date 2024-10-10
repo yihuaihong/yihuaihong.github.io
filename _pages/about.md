@@ -23,11 +23,11 @@ blackirect_from:
 ## My research story revolves around the <span style="color:black; font-weight:bold;">Mechanistic Interpretability and Understanding of LLMs</span>, especially how <span style="color:black; font-weight:bold;">"Knowledge"</span> and <span style="color:black; font-weight:bold;">"Reasoning"</span> are formed and processed in LLMs, which can be further mapped to the other adjacent areas such as <span style="color:black; font-weight:bold;">LLM Safety</span>, <span style="color:black; font-weight:bold;">Knowledge Editing</span>, various <span style="color:black; font-weight:bold;">Reasoning capabilities</span> of LLMs and so on:
 - Interpretability × Memorized Knowledge
      - LLM Safety (LLM Unlearning)
-          - Parametric Knowledge Benchmark [[ConceptVectors](#conceptvectors)]
-          - Dissect Finetuning Unlearning  [[EMNLP 2024 Main](#finetuning-unlearning)]
+          - Parametric Knowledge Benchmark [[ConceptVectors](https://arxiv.org/abs/2406.11614)]
+          - Dissect Finetuning Unlearning  [[EMNLP 2024 Main](https://arxiv.org/abs/2410.06606)]
           - LLM Unlearning methods [Things in Progress..]
      - Knowledge Editing [[EMNLP 2024 Main](#knowledge-editing)]
-     - LLM Efficient Inference [[AAAI 2204 main track](#consistentee)]
+     - LLM Efficient Inference [[AAAI 2204 main track](https://ojs.aaai.org/index.php/AAAI/article/view/29922)]
 - Interpretability × Reasoning [Things in Progress..]
 
 ## This year I am very fortunate to work with <a href="https://mega002.github.io/" style="text-decoration: none;">Prof. Mor Geva Pipek</a> from Tel Aviv University and Google Research on LLM Unlearning, and with <a href="https://zhijing-jin.com/fantasy" style="text-decoration: none;">Prof. Zhijin Jin</a> from University of Toronto on Mechanistic understanding of Reasoning. Now I am also a researcher at <a href="https://github.com/DAMO-NLP-SG" style="text-decoration: none;">Alibaba DAMO Academy</a> working with <a href="https://lidongbing.github.io" style="text-decoration: none;">Dr. Lidong Bing</a> and <a href="https://isakzhang.github.io" style="text-decoration: none;">Dr. Wenxuan Zhang</a>. Last year, I interned at <a href="https://www.ucl.ac.uk/ai-centre/ucl-centre-artificial-intelligence" style="text-decoration: none;">UCL AI Centre</a> working on Knowledge Editing with <a href="https://aldolipani.com/" style="text-decoration: none;">Prof. Aldo Lipani</a> and also worked with <a href="https://hqyang.github.io" style="text-decoration: none;">Dr. Haiqin Yang</a>. I started my research career in the second year of undergraduate studies supervised by <a href="https://ziqianzeng.github.io/" style="text-decoration: none;">Prof. Ziqian Zeng</a> in SCUT. More information in my <a href="https://drive.google.com/file/d/19uuD2P03irDsZs5VYwtqzinTgL5aaRPn/view?usp=sharing" style="text-decoration: none;">CV</a>.
