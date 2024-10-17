@@ -74,7 +74,7 @@ Preprint, 2024.06
 
 [Arxiv](https://arxiv.org/abs/2410.06606) / [GitHub](https://github.com/yihuaihong/Dissecting-FT-Unlearning)
 
-<span style="color: black; font-weight: bold;">EMNLP 2024 Main</span><span style="color: red; font-weight: bold;">(Oral)</span>
+<span style="color: black; font-weight: bold;">EMNLP 2024 Main</span><span style="color: red; font-weight: bold;">(Oral presentation)</span>
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
