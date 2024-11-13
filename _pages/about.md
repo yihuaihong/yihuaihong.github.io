@@ -26,7 +26,7 @@ blackirect_from:
           - Parametric Knowledge Benchmark [[ConceptVectors](https://arxiv.org/abs/2406.11614)]
           - Dissect Finetuning Unlearning  [[EMNLP 2024 Main](https://arxiv.org/abs/2410.06606)]
           - LLM Unlearning methods [Things in Progress..]
-     - Knowledge Editing [[EMNLP 2024 Main](#knowledge-editing)]
+     - Knowledge Editing [[EMNLP 2024 Main](https://aclanthology.org/2024.emnlp-main.225/]
      - LLM Efficient Inference [[AAAI 2204 main track](https://ojs.aaai.org/index.php/AAAI/article/view/29922)]
 - Interpretability × Reasoning [Things in Progress..]
 
@@ -85,11 +85,13 @@ In this paper, we delve into the limitations of fine-tuning-based unlearning thr
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024 Main</div><img src='images/main structure_page-0001.jpg' alt="sym" width="110%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<a id="knowledge-editing">[Interpretability-based Tailored Knowledge Editing in Transformers](https://drive.google.com/file/d/1EQgIWd827Ezg25DmB_1g9w-P3O4gWFGX/view?usp=sharing)</a>
+<a id="knowledge-editing">[Interpretability-based Tailored Knowledge Editing in Transformers](https://aclanthology.org/2024.emnlp-main.225)</a>
 
 <span style="color: black; font-weight: bold;">Yihuai Hong</span>, Aldo Lipani
 
-<span style="color: black; font-weight: bold;">EMNLP 2024 Main</span> (will be released soon)
+[Arxiv](https://aclanthology.org/2024.emnlp-main.225) 
+
+<span style="color: black; font-weight: bold;">EMNLP 2024 Main</span>
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
