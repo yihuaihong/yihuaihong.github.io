@@ -122,6 +122,7 @@ Ziqian Zeng<sup>*</sup>, <span style="color: black; font-weight: bold;">Yihuai H
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 📖 Educations
+- 2025.09 - present, Ph.D. student in Computer Science, Courant Institute, New York University
 - 2020.09 - 2024.06, Bachelor of Engineering, School of Computer Science and Engineering, South China University of Technology
 
 # 💻 Internships
