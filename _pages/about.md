@@ -18,7 +18,7 @@ blackirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-## Hello, I am Yihuai Hong, a fourth-year undergraduate student at South China University of Technology. My research interests lie in Natural Language Processing and Language Models.
+## Hello, I am Yihuai Hong, a incoming Ph.D. student in Computer Science at the Courant Institute of New York University. My research interests lie in Natural Language Processing and Language Models.
 
 ## My research story revolves around the <span style="color:black; font-weight:bold;">Mechanistic Interpretability and Understanding of LLMs</span>, especially how <span style="color:black; font-weight:bold;">"Knowledge"</span> and <span style="color:black; font-weight:bold;">"Reasoning"</span> are formed and processed in LLMs, which can be further mapped to the other adjacent areas such as <span style="color:black; font-weight:bold;">LLM Safety</span>, <span style="color:black; font-weight:bold;">Knowledge Editing</span>, various <span style="color:black; font-weight:bold;">Reasoning capabilities</span> of LLMs and so on:
 - Interpretability × Memorized Knowledge
@@ -33,9 +33,6 @@ blackirect_from:
 ## This year I am very fortunate to work with <a href="https://mega002.github.io/" style="text-decoration: none;">Prof. Mor Geva Pipek</a> from Tel Aviv University and Google Research on LLM Unlearning, and with <a href="https://zhijing-jin.com/fantasy" style="text-decoration: none;">Prof. Zhijing Jin</a> from University of Toronto on Mechanistic understanding of Reasoning. Now I am also a researcher at <a href="https://github.com/DAMO-NLP-SG" style="text-decoration: none;">Alibaba DAMO Academy</a> working with <a href="https://lidongbing.github.io" style="text-decoration: none;">Dr. Lidong Bing</a> and <a href="https://isakzhang.github.io" style="text-decoration: none;">Dr. Wenxuan Zhang</a>. Last year, I interned at <a href="https://www.ucl.ac.uk/ai-centre/ucl-centre-artificial-intelligence" style="text-decoration: none;">UCL AI Centre</a> working on Knowledge Editing with <a href="https://aldolipani.com/" style="text-decoration: none;">Prof. Aldo Lipani</a> and also worked with <a href="https://hqyang.github.io" style="text-decoration: none;">Dr. Haiqin Yang</a>. I started my research career in the second year of undergraduate studies supervised by <a href="https://ziqianzeng.github.io/" style="text-decoration: none;">Prof. Ziqian Zeng</a> in SCUT. More information in my <a href="https://drive.google.com/file/d/19uuD2P03irDsZs5VYwtqzinTgL5aaRPn/view?usp=sharing" style="text-decoration: none;">CV</a>.
 
 <!-- -And starting from my second year, I was conducting research on the acceleration of Language Model's inference under the supervision of <a href="https://ziqianzeng.github.io/" style="text-decoration: none;">Prof. Ziqian Zeng</a>. Meanwhile, last summer I was visiting <a href="https://www.ucl.ac.uk/ai-centre/ucl-centre-artificial-intelligence" style="text-decoration: none;">UCL AI Centre</a> & <a href="https://wi.cs.ucl.ac.uk/" style="text-decoration: none;">Web Intelligence Group</a> as a research intern with a focus on the area of Knowledge Editing on Large Language Models, under the supervision of <a href="https://aldolipani.com/" style="text-decoration: none;">Prof. Aldo Lipani</a>. -->
-
-
-## I am actively looking for 2025 Fall Ph.D. opportunities now :)
 
 
 
