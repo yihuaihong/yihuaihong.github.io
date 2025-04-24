@@ -51,7 +51,7 @@ blackirect_from:
 
 <span style="color: black; font-weight: bold;">Yihuai Hong</span>, Yiran Zhao, Wei Tang, Yu Rong, Wenxuan Zhang
 
-Preprint.
+Preprint, 2025.04
 
 </div>
 </div>
@@ -66,7 +66,7 @@ Preprint.
 
 [Arxiv](https://arxiv.org/abs/2503.23084)
 
-Preprint. 
+Preprint, 2025.03 
 
 </div>
 </div>
