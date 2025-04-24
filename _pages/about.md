@@ -44,7 +44,7 @@ blackirect_from:
 
 # 📝 Research
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/kc_page-0001.jpg' alt="sym" width="150%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/param_special.jpg' alt="sym" width="110%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a id="param_specialization">[The Hidden Trend of Parameter Specialization Across Large Language Models](https://yihuaihong.github.io)</a>  
@@ -57,7 +57,7 @@ Preprint, 2025.04
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/interp_reason_memory_page-0001.jpg' alt="sym" style="width:1280px; height:120px;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/interp_reasoning.jpg' alt="sym" width="110%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a id="lirefs">[The Reasoning-Memorization Interplay in Language Models Is Mediated by a Single Direction](https://arxiv.org/abs/2503.23084)</a>  
