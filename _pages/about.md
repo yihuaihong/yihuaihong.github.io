@@ -57,7 +57,7 @@ Preprint, 2025.04
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/interp_reason_memory_page-0001.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/interp_reason_memory_page-0001.jpg' alt="sym" style="width:1280px; height:720px;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a id="lirefs">[The Reasoning-Memorization Interplay in Language Models Is Mediated by a Single Direction](https://arxiv.org/abs/2503.23084)</a>  
@@ -73,7 +73,7 @@ Preprint, 2025.03
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/unlearn_data_process2_page-0001.jpg' alt="sym" width="110%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/unlearn_data_process2_page-0001.jpg' alt="sym" style="width:1280px; height:720px;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a id="conceptvectors">[Intrinsic Evaluation of Unlearning Using Parametric Knowledge Traces](https://yihuaihong.github.io/ConceptVectors.github.io/)</a>  
