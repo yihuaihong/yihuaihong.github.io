@@ -44,10 +44,10 @@ blackirect_from:
 
 # 📝 Research
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/kc_page-0001.jpg' alt="sym" width="110%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/kc_page-0001.jpg' alt="sym" width="150%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<a id="conceptvectors">[The Hidden Trend of Parameter Specialization Across Large Language Models](https://yihuaihong.github.io)</a>  
+<a id="param_specialization">[The Hidden Trend of Parameter Specialization Across Large Language Models](https://yihuaihong.github.io)</a>  
 
 <span style="color: black; font-weight: bold;">Yihuai Hong</span>, Yiran Zhao, Wei Tang, Yu Rong, Wenxuan Zhang
 
@@ -57,10 +57,10 @@ Preprint.
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/interp_reason_memory_page-0001.jpg' alt="sym" width="110%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/interp_reason_memory_page-0001.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<a id="conceptvectors">[The Reasoning-Memorization Interplay in Language Models Is Mediated by a Single Direction](https://arxiv.org/abs/2503.23084)</a>  
+<a id="lirefs">[The Reasoning-Memorization Interplay in Language Models Is Mediated by a Single Direction](https://arxiv.org/abs/2503.23084)</a>  
 
 <span style="color: black; font-weight: bold;">Yihuai Hong</span>, Dian Zhou, Meng Caom, Lei Yu, Zhijing Jin
 
