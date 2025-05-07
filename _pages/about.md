@@ -62,7 +62,7 @@ Preprint, 2025.04
 
 <a id="lirefs">[The Reasoning-Memorization Interplay in Language Models Is Mediated by a Single Direction](https://arxiv.org/abs/2503.23084)</a>  
 
-<span style="color: black; font-weight: bold;">Yihuai Hong</span>, Dian Zhou, Meng Caom, Lei Yu, Zhijing Jin
+<span style="color: black; font-weight: bold;">Yihuai Hong</span>, Dian Zhou, Meng Cao, Lei Yu, Zhijing Jin
 
 [Arxiv](https://arxiv.org/abs/2503.23084)
 
