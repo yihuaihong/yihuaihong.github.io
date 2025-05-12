@@ -64,7 +64,7 @@ Preprint, 2025.04
 
 <span style="color: black; font-weight: bold;">Yihuai Hong</span>, Dian Zhou, Meng Cao, Lei Yu, Zhijing Jin
 
-[Arxiv](https://arxiv.org/abs/2503.23084)
+[Arxiv](https://arxiv.org/abs/2503.23084) / [GitHub](https://github.com/yihuaihong/Linear_Reasoning_Features)
 
 Preprint, 2025.03 
 
