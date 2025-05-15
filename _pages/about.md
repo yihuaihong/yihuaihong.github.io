@@ -57,7 +57,7 @@ Preprint, 2025.04
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/interp_reasoning.jpg' alt="sym" width="110%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 Findings</div><img src='images/interp_reasoning.jpg' alt="sym" width="110%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a id="lirefs">[The Reasoning-Memorization Interplay in Language Models Is Mediated by a Single Direction](https://arxiv.org/abs/2503.23084)</a>  
@@ -66,7 +66,7 @@ Preprint, 2025.04
 
 [Arxiv](https://arxiv.org/abs/2503.23084) / [GitHub](https://github.com/yihuaihong/Linear_Reasoning_Features)
 
-Preprint, 2025.03 
+<span style="color: black; font-weight: bold;">ACL 2025 Findings</span>
 
 </div>
 </div>
