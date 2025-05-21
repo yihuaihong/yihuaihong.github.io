@@ -172,7 +172,7 @@ Ziqian Zeng<sup>*</sup>, <span style="color: black; font-weight: bold;">Yihuai H
 - *2022.03* Kaggle Bronze medal (Top 6%) - Evaluating Student Writing: Analyze argumentative writing elements from students grades 6-12
 
 # 🙋‍♂️ Academic Services 
-- Program Committee: ICLR (2025), AAAI (2024), ACL ARR (Feb. 2024 - June. 2024)
+- Program Committee: NeurIPS (2025), ICLR (2025), ACL ARR (Feb. 2024 - June 2024, Feb. 2025 - May 2025)
   
 # 📚 Patents 
 - *2022.09* Self-supervised pre-training method, system and medium for Chinese Pinyin spelling correction.
