@@ -26,7 +26,8 @@ blackirect_from:
           - Parametric Knowledge Benchmark [[ConceptVectors](https://arxiv.org/abs/2406.11614)]
           - Dissect Finetuning Unlearning  [[EMNLP 2024 Main](https://arxiv.org/abs/2410.06606)]
           - LLM Unlearning methods [Things in Progress..]
-     - Knowledge Editing [[EMNLP 2024 Main](https://aclanthology.org/2024.emnlp-main.225)]
+     - LLM Knowledge Distribution [[Parameter Specialization](https://aclanthology.org/2024.emnlp-main.225)]
+     - LLM Knowledge Editing [[EMNLP 2024 Main](https://aclanthology.org/2024.emnlp-main.225)]
      - LLM Efficient Inference [[AAAI 2024 main track](https://ojs.aaai.org/index.php/AAAI/article/view/29922)]
 - Interpretability × Reasoning [[ACL 2025 Findings](https://arxiv.org/abs/2503.23084)]
 
