@@ -26,7 +26,7 @@ blackirect_from:
           - Parametric Knowledge Benchmark [[ConceptVectors](https://arxiv.org/abs/2406.11614)]
           - Dissect Finetuning Unlearning  [[EMNLP 2024 Main](https://arxiv.org/abs/2410.06606)]
           - LLM Unlearning methods [Things in Progress..]
-     - LLM Knowledge Distribution [[Parameter Specialization](https://github.com/yihuaihong/yihuaihong.github.io)]
+     - LLM Knowledge Distribution [[Parameter Specialization](http://arxiv.org/abs/2505.17260)]
      - LLM Knowledge Editing [[EMNLP 2024 Main](https://aclanthology.org/2024.emnlp-main.225)]
      - LLM Efficient Inference [[AAAI 2024 main track](https://ojs.aaai.org/index.php/AAAI/article/view/29922)]
 - Interpretability × Reasoning [[ACL 2025 Findings](https://arxiv.org/abs/2503.23084)]
@@ -49,9 +49,11 @@ blackirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/param_special.jpg' alt="sym" width="110%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<a id="param_specialization">[The Hidden Trend of Parameter Specialization Across Large Language Models](https://yihuaihong.github.io)</a>  
+<a id="param_specialization">[The Hidden Trend of Parameter Specialization Across Large Language Models](http://arxiv.org/abs/2505.17260)</a>  
 
 <span style="color: black; font-weight: bold;">Yihuai Hong</span>, Yiran Zhao, Wei Tang, Yu Rong, Wenxuan Zhang
+
+[Arxiv](http://arxiv.org/abs/2505.17260)
 
 Preprint, 2025.04
 
