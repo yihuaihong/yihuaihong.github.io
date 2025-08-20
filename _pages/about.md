@@ -61,6 +61,25 @@ Preprint, 2025.04
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/unlearn_data_process2_page-0001.jpg' alt="sym" width="110%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a id="conceptvectors">[Intrinsic Evaluation of Unlearning Using Parametric Knowledge Traces](https://yihuaihong.github.io/ConceptVectors.github.io/)</a>  
+
+<span style="color: black; font-weight: bold;">Yihuai Hong</span>, Lei Yu, Shauli Ravfogel, Haiqin Yang, Mor Geva
+
+[Website](https://yihuaihong.github.io/ConceptVectors.github.io) / [Arxiv](https://arxiv.org/pdf/2406.11614) / [GitHub](https://github.com/yihuaihong/ConceptVectors) / [Huggingface](https://huggingface.co/datasets/YihuaiHong/ConceptVectors) / [Twitter](https://x.com/YihuaiH91773/status/1803871246037164489)
+
+<span style="color: black; font-weight: bold;">EMNLP 2025 Main</span>
+
+- Our findings reveal that current unlearning methods only modify the model's behavior without truly erasing the encoded knowledge in its parameters.
+- To address this, we present the ConceptVectors Benchmark, where each vector is closely tied to a specific concept. It consists of 285 concept vectors on two open-source LLMs.
+- Directly ablating these vectors demonstrably removes the associated knowledge from the LLMs and significantly blackuces their susceptibility to adversarial manipulation.
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 Findings</div><img src='images/interp_reasoning.jpg' alt="sym" width="110%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -75,25 +94,6 @@ Preprint, 2025.04
 </div>
 </div>
 
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/unlearn_data_process2_page-0001.jpg' alt="sym" width="110%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<a id="conceptvectors">[Intrinsic Evaluation of Unlearning Using Parametric Knowledge Traces](https://yihuaihong.github.io/ConceptVectors.github.io/)</a>  
-
-<span style="color: black; font-weight: bold;">Yihuai Hong</span>, Lei Yu, Shauli Ravfogel, Haiqin Yang, Mor Geva
-
-[Website](https://yihuaihong.github.io/ConceptVectors.github.io) / [Arxiv](https://arxiv.org/pdf/2406.11614) / [GitHub](https://github.com/yihuaihong/ConceptVectors) / [Huggingface](https://huggingface.co/datasets/YihuaiHong/ConceptVectors) / [Twitter](https://x.com/YihuaiH91773/status/1803871246037164489)
-
-Preprint, 2024.06 
-
-- Our findings reveal that current unlearning methods only modify the model's behavior without truly erasing the encoded knowledge in its parameters.
-- To address this, we present the ConceptVectors Benchmark, where each vector is closely tied to a specific concept. It consists of 285 concept vectors on two open-source LLMs.
-- Directly ablating these vectors demonstrably removes the associated knowledge from the LLMs and significantly blackuces their susceptibility to adversarial manipulation.
-
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024 Main</div><img src='images/dissect-ft-unlearning.jpg' alt="sym" width="110%"></div></div>
 <div class='paper-box-text' markdown="1">
