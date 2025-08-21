@@ -177,6 +177,9 @@ Ziqian Zeng<sup>*</sup>, <span style="color: black; font-weight: bold;">Yihuai H
 
 # 🙋‍♂️ Academic Services 
 - Program Committee: NeurIPS (2025), ICLR (2025), ACL ARR (Feb. 2024 - June 2024, Feb. 2025 - May 2025)
+
+# 💬 Teaching
+- Section Leader: Fall 2025 - DS-GA 1006 Capstone Project and Presentation - NYU Center for Data Science
   
 # 📚 Patents 
 - *2022.09* Self-supervised pre-training method, system and medium for Chinese Pinyin spelling correction.
