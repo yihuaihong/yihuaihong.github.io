@@ -26,7 +26,7 @@ blackirect_from:
           - Parametric Knowledge Benchmark [[EMNLP 2025 Main](https://arxiv.org/abs/2406.11614)]
           - Dissect Finetuning Unlearning  [[EMNLP 2024 Main](https://arxiv.org/abs/2410.06606)]
           - LLM Unlearning methods [[EMNLP 2025 Main](https://arxiv.org/abs/2505.22586)]
-     - LLM Knowledge Distribution [[Parameter Specialization](http://arxiv.org/abs/2505.17260)]
+     - LLM Knowledge Distribution [[Neurips 2025](http://arxiv.org/abs/2505.17260)]
      - LLM Knowledge Editing [[EMNLP 2024 Main](https://aclanthology.org/2024.emnlp-main.225)]
      - LLM Efficient Inference [[AAAI 2024 main track](https://ojs.aaai.org/index.php/AAAI/article/view/29922)]
 - Interpretability × Reasoning [[ACL 2025 Findings](https://arxiv.org/abs/2503.23084)]
@@ -38,6 +38,7 @@ blackirect_from:
 
 
 # 🔥 News
+- 2025.09: &nbsp;🎉🎉 My first Neurips! One <span style="color: black; font-weight: bold;">1st-author</span> paper has been accepted to <span style="color: black; font-weight: bold;">Neurips 2025 Main</span>! "The Rise of Parameter Specialization for Knowledge Storage in Large Language Models"! Thanks to the guidance from Prof. Wenxuan Zhang, Dr. Yu Rong, and the help of other collaborators! See you at San Diego!
 - 2025.08: &nbsp;🎉🎉 One <span style="color: black; font-weight: bold;">1st-author</span> paper and one co-authored paper have been both accepted to <span style="color: black; font-weight: bold;">EMNLP 2025 Main</span>! "Intrinsic Evaluation of Unlearning Using Parametric Knowledge Traces"! Thanks to the guidance from Prof. Mor Geva, Dr. Shauli Ravfogel, Dr. Lei Yu, and the help of other collaborators! 
 - 2025.05: &nbsp;🎉🎉 My <span style="color: black; font-weight: bold;">new 1st-author</span> paper has been accepted to <span style="color: black; font-weight: bold;">ACL 2025 Findings</span>! "The Reasoning-Memorization Interplay in Language Models Is Mediated by a Single Direction"! Thanks to the guidance from Prof. Zhijing Jin, Dr. Lei Yu and the help of other collaborators. See you in Vienna!
 - 2024.09: &nbsp;🎉🎉 My <span style="color: black; font-weight: bold;">two new 1st-author</span> papers both have been accepted to <span style="color: black; font-weight: bold;">EMNLP 2024 Main</span>! "Dissecting Fine-Tuning Unlearning in Large Language Models" and "Interpretability-based Tailoblack Knowledge Editing in Transformers"! Feel so grateful to all my mentors and collaborators. See you in Miami!
@@ -56,7 +57,7 @@ blackirect_from:
 
 [Arxiv](http://arxiv.org/abs/2505.17260)
 
-Preprint, 2025.04
+<span style="color: black; font-weight: bold;">Neurips 2025</span>
 
 </div>
 </div>
