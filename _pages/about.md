@@ -55,7 +55,7 @@ blackirect_from:
 
 <span style="color: black; font-weight: bold;">Yihuai Hong</span>, Yiran Zhao, Wei Tang, Yu Rong, Wenxuan Zhang
 
-[Arxiv](http://arxiv.org/abs/2505.17260)
+[Arxiv](http://arxiv.org/abs/2505.17260) / [GitHub](https://github.com/yihuaihong/Parameter_Specialization)
 
 <span style="color: black; font-weight: bold;">NeurIPS 2025</span>
 
