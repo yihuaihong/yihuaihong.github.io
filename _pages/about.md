@@ -177,7 +177,7 @@ Ziqian Zeng<sup>*</sup>, <span style="color: black; font-weight: bold;">Yihuai H
 - *2022.03* Kaggle Bronze medal (Top 6%) - Evaluating Student Writing: Analyze argumentative writing elements from students grades 6-12
 
 # 🙋‍♂️ Academic Services
-- Program Committee: NeurIPS (2025), ICLR (2025), ACL ARR (Feb. 2024 - June 2024, Feb. 2025 - May 2025)
+- Program Committee: ICLR (2026, 2025), NeurIPS (2025), ACL ARR (Feb. 2024 - June 2024, Feb. 2025 - May 2025)
 
 # 💬 Teaching
 - Section Leader: Fall 2025 - DS-GA 1006 Capstone Project and Presentation - NYU Center for Data Science
