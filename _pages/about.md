@@ -48,7 +48,7 @@ blackirect_from:
 
 # 📝 Research
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/param_special.jpg' alt="sym" width="110%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/param_special.jpg' alt="sym" width="110%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a id="param_specialization">[The Hidden Trend of Parameter Specialization Across Large Language Models](http://arxiv.org/abs/2505.17260)</a>  
@@ -63,7 +63,7 @@ blackirect_from:
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/unlearn_data_process2_page-0001.jpg' alt="sym" width="110%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025 Main</div><img src='images/unlearn_data_process2_page-0001.jpg' alt="sym" width="110%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a id="conceptvectors">[Intrinsic Test of Unlearning Using Parametric Knowledge Traces](https://yihuaihong.github.io/ConceptVectors.github.io/)</a>  
