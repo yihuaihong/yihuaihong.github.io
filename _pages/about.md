@@ -51,7 +51,7 @@ blackirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/param_special.jpg' alt="sym" width="110%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<a id="param_specialization">[The Hidden Trend of Parameter Specialization Across Large Language Models](http://arxiv.org/abs/2505.17260)</a>  
+<a id="param_specialization">[The Rise of Parameter Specialization for Knowledge Storage in Large Language Models](http://arxiv.org/abs/2505.17260)</a>  
 
 <span style="color: black; font-weight: bold;">Yihuai Hong</span>, Yiran Zhao, Wei Tang, Yu Rong, Wenxuan Zhang
 
