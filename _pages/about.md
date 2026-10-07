@@ -56,7 +56,7 @@ redirect_from:
 
 <a id="cia">[Making LLMs Say What They Think: Measuring and Improving CoT-Interpretability Alignment](https://arxiv.org/abs/2609.38972)</a>  
 
-<span style="color: black; font-weight: bold;">Yihuai Hong</span>, Shauli Ravfogel, Chen Zhao, Eunsol Choi
+<span style="color: black; font-weight: bold;">Yihuai Hong</span>, Shauli Ravfogel, Chen Zhao<sup>†</sup>, Eunsol Choi<sup>†</sup>
 
 [Arxiv](https://arxiv.org/abs/2609.38972) / [GitHub](https://github.com/yihuaihong/CIA-minimal-repro)
 
@@ -200,9 +200,11 @@ Ziqian Zeng<sup>*</sup>, <span style="color: black; font-weight: bold;">Yihuai H
 - *2021.07* Kaggle <span style="color: black; font-weight: bold;">Silver</span> medal (Top 5%) - CommonLit Readability Prize: Rate the complexity of literary passages for grades 3-12 classroom use
 
 # 🙋‍♂️ Academic Services
-- Program Committee: ICLR (2026, 2025), NeurIPS (2025), ACL ARR (Feb. 2024 - June 2024, Feb. 2025 - Jan 2026)
+- Program Committee: ICLR (2025, 2026), NeurIPS (2025, 2026), ICML (2026), ACL ARR (Feb. 2024 - Aug. 2026)
 
 # 💬 Teaching
+- Section Leader: Fall 2026 - DS-GA 1011 Fundamentals of Natural Language Processing - NYU Center for Data Science
+- Section Leader: Fall 2026 - DS-GA 1006 Capstone Project and Presentation - NYU Center for Data Science
 - Section Leader: Spring 2026 - DS-GA 1003 Machine Learning - NYU Center for Data Science
 - Section Leader: Fall 2025 - DS-GA 1006 Capstone Project and Presentation - NYU Center for Data Science
   
