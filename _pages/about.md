@@ -3,7 +3,7 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-blackirect_from: 
+redirect_from: 
   - /about/
   - /about.html
 ---
@@ -29,7 +29,9 @@ blackirect_from:
      - LLM Knowledge Distribution [[NeurIPS 2025](http://arxiv.org/abs/2505.17260)]
      - LLM Knowledge Editing [[EMNLP 2024 Main](https://aclanthology.org/2024.emnlp-main.225)]
      - LLM Efficient Inference [[AAAI 2024 main track](https://ojs.aaai.org/index.php/AAAI/article/view/29922)]
-- Interpretability × Reasoning [[ACL 2025 Findings](https://arxiv.org/abs/2503.23084)]
+- Interpretability × Reasoning
+     - Reasoning-Memorization Interplay [[ACL 2025 Findings](https://arxiv.org/abs/2503.23084)]
+     - CoT Faithfulness: CoT-Interpretability Alignment [[Preprint 2026](https://arxiv.org/abs/2609.38972)]
 
 ## Before my PhD career, I was very fortunate to work with <a href="https://mega002.github.io/" style="text-decoration: none;">Prof. Mor Geva Pipek</a> from Tel Aviv University and Google Research on LLM Unlearning, and with <a href="https://zhijing-jin.com/fantasy" style="text-decoration: none;">Prof. Zhijing Jin</a> from University of Toronto on Mechanistic understanding of Reasoning. I was also a researcher at <a href="https://github.com/DAMO-NLP-SG" style="text-decoration: none;">Alibaba DAMO Academy</a> working with <a href="https://isakzhang.github.io" style="text-decoration: none;">Dr. Wenxuan Zhang</a> and <a href="https://royrong.me/" style="text-decoration: none;">Dr. Yu Rong</a>. More information in my <a href="https://drive.google.com/file/d/1iC1alfcwDm2u1QjHXvqFUjSCJ424WIBL/view?usp=sharing" style="text-decoration: none;">CV</a>. <span style="color:black; font-weight:bold;">And I am actively looking for internship opportunities for 2027 Summer! Please let me know if you think I am a good fit!</span>
 
@@ -38,17 +40,37 @@ blackirect_from:
 
 
 # 🔥 News
+- 2026.09: &nbsp;🚀🚀 Please check my newest paper! <span style="color: black; font-weight: bold;">[Making LLMs Say What They Think: Measuring and Improving CoT-Interpretability Alignment](https://arxiv.org/abs/2609.38972)</span> We propose <span style="color: black; font-weight: bold;">CIA</span>, a metric that checks whether an LLM's chain-of-thought matches the reasoning detected inside the model by interpretability tools, and show that post-training can substantially improve this alignment while maintaining or improving task accuracy!
 - 2025.09: &nbsp;🎉🎉 <span style="color: black; font-weight: bold;">My first NeurIPS!</span> One <span style="color: black; font-weight: bold;">1st-author</span> paper has been accepted to NeurIPS 2025! "The Rise of Parameter Specialization for Knowledge Storage in Large Language Models"! And I received the <span style="color: black; font-weight: bold;">NeurIPS 2025 Scholar Award!</span> Thanks to the guidance from Prof. Wenxuan Zhang, Dr. Yu Rong, and the help of other collaborators! See you at San Diego!
-- 2025.08: &nbsp;🎉🎉 One <span style="color: black; font-weight: bold;">1st-author</span> paper and one co-authored paper have been both accepted to <span style="color: black; font-weight: bold;">EMNLP 2025 Main</span>! "Intrinsic Evaluation of Unlearning Using Parametric Knowledge Traces"! Thanks to the guidance from Prof. Mor Geva, Dr. Shauli Ravfogel, Dr. Lei Yu, and the help of other collaborators! 
+- 2025.08: &nbsp;🎉🎉 One <span style="color: black; font-weight: bold;">1st-author</span> paper and one co-authored paper have been both accepted to <span style="color: black; font-weight: bold;">EMNLP 2025 Main</span>! "Intrinsic Test of Unlearning Using Parametric Knowledge Traces"! Thanks to the guidance from Prof. Mor Geva, Dr. Shauli Ravfogel, Dr. Lei Yu, and the help of other collaborators! 
 - 2025.05: &nbsp;🎉🎉 My <span style="color: black; font-weight: bold;">new 1st-author</span> paper has been accepted to <span style="color: black; font-weight: bold;">ACL 2025 Findings</span>! "The Reasoning-Memorization Interplay in Language Models Is Mediated by a Single Direction"! Thanks to the guidance from Prof. Zhijing Jin, Dr. Lei Yu and the help of other collaborators. See you in Vienna!
-- 2024.09: &nbsp;🎉🎉 My <span style="color: black; font-weight: bold;">two new 1st-author</span> papers both have been accepted to <span style="color: black; font-weight: bold;">EMNLP 2024 Main</span>! "Dissecting Fine-Tuning Unlearning in Large Language Models" and "Interpretability-based Tailoblack Knowledge Editing in Transformers"! Feel so grateful to all my mentors and collaborators. See you in Miami!
+- 2024.09: &nbsp;🎉🎉 My <span style="color: black; font-weight: bold;">two new 1st-author</span> papers both have been accepted to <span style="color: black; font-weight: bold;">EMNLP 2024 Main</span>! "Dissecting Fine-Tuning Unlearning in Large Language Models" and "Interpretability-based Tailored Knowledge Editing in Transformers"! Feel so grateful to all my mentors and collaborators. See you in Miami!
 - 2024.06: &nbsp;🚀🚀 Please check my newest paper! <span style="color: black; font-weight: bold;">[Intrinsic Evaluation of Unlearning Using Parametric Knowledge Traces](https://arxiv.org/abs/2406.11614) </span> This is the <span style="color: black; font-weight: bold;">first-ever parametric LLM Unlearning Benchmark!</span> Thanks to the guidance from Prof. Mor Geva and the help of other collaborators.
 - 2023.12: &nbsp;🎉🎉 My first work is accepted to <span style="color: black; font-weight: bold;">AAAI 2024 main track</span> and I also won the <span style="color: black; font-weight: bold;">AAAI-24 Student Scholarship</span>! I am genuinely thankful to Prof. Zeng for guiding me and for her help along this path!
 
 
 # 📝 Research
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/param_special.jpg' alt="sym" width="110%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/cia_overview.jpg' alt="Overview of CoT-Interpretability Alignment (CIA)" width="110%" loading="lazy"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a id="cia">[Making LLMs Say What They Think: Measuring and Improving CoT-Interpretability Alignment](https://arxiv.org/abs/2609.38972)</a>  
+
+<span style="color: black; font-weight: bold;">Yihuai Hong</span>, Shauli Ravfogel, Chen Zhao, Eunsol Choi
+
+[Arxiv](https://arxiv.org/abs/2609.38972) / [GitHub](https://github.com/yihuaihong/CIA-minimal-repro)
+
+<span style="color: black; font-weight: bold;">Preprint 2026</span>
+
+- We propose CoT-Interpretability Alignment (CIA), a metric that measures the agreement between the reasoning an LLM verbalizes in its chain-of-thought and its internal reasoning strategy as detected by interpretability tools.
+- Across three tasks (two-hop question answering, hint intervention, and integer multiplication) and three LLMs, models show limited alignment (44.8–75.9%).
+- Using task accuracy and CIA as post-training rewards substantially improves CoT parametric faithfulness while maintaining or improving task accuracy.
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/param_special.jpg' alt="Parameter specialization overview" width="110%" loading="lazy"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a id="param_specialization">[The Rise of Parameter Specialization for Knowledge Storage in Large Language Models](http://arxiv.org/abs/2505.17260)</a>  
@@ -63,7 +85,7 @@ blackirect_from:
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025 Main</div><img src='images/unlearn_data_process2_page-0001.jpg' alt="sym" width="110%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025 Main</div><img src='images/unlearn_data_process2_page-0001.jpg' alt="ConceptVectors benchmark overview" width="110%" loading="lazy"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a id="conceptvectors">[Intrinsic Test of Unlearning Using Parametric Knowledge Traces](https://yihuaihong.github.io/ConceptVectors.github.io/)</a>  
@@ -76,13 +98,13 @@ blackirect_from:
 
 - Our findings reveal that current unlearning methods only modify the model's behavior without truly erasing the encoded knowledge in its parameters.
 - To address this, we present the ConceptVectors Benchmark, where each vector is closely tied to a specific concept. It consists of 285 concept vectors on two open-source LLMs.
-- Directly ablating these vectors demonstrably removes the associated knowledge from the LLMs and significantly blackuces their susceptibility to adversarial manipulation.
+- Directly ablating these vectors demonstrably removes the associated knowledge from the LLMs and significantly reduces their susceptibility to adversarial manipulation.
 
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 Findings</div><img src='images/interp_reasoning.jpg' alt="sym" width="110%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 Findings</div><img src='images/interp_reasoning.jpg' alt="Linear reasoning features overview" width="110%" loading="lazy"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a id="lirefs">[The Reasoning-Memorization Interplay in Language Models Is Mediated by a Single Direction](https://arxiv.org/abs/2503.23084)</a>  
@@ -97,10 +119,10 @@ blackirect_from:
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024 Main</div><img src='images/dissect-ft-unlearning.jpg' alt="sym" width="110%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024 Main</div><img src='images/dissect-ft-unlearning.jpg' alt="Dissecting fine-tuning unlearning overview" width="110%" loading="lazy"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<a id="finetuning-unlearning">[Dissecting Fine-Tuning Unlearning in Large Language Models]()</a>
+<a id="finetuning-unlearning">[Dissecting Fine-Tuning Unlearning in Large Language Models](https://arxiv.org/abs/2410.06606)</a>
 
 <span style="color: black; font-weight: bold;">Yihuai Hong</span>, Yuelin Zou, Lijie Hu, Ziqian Zeng, Di Wang, Haiqin Yang
 
@@ -114,14 +136,14 @@ In this paper, we delve into the limitations of fine-tuning-based unlearning thr
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024 Main</div><img src='images/main structure_page-0001.jpg' alt="sym" width="110%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024 Main</div><img src='images/main%20structure_page-0001.jpg' alt="TailoredKE overview" width="110%" loading="lazy"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a id="knowledge-editing">[Interpretability-based Tailored Knowledge Editing in Transformers](https://aclanthology.org/2024.emnlp-main.225)</a>
 
 <span style="color: black; font-weight: bold;">Yihuai Hong</span>, Aldo Lipani
 
-[Arxiv](https://aclanthology.org/2024.emnlp-main.225) / [Github](https://github.com/yihuaihong/TailoredKE) 
+[Paper](https://aclanthology.org/2024.emnlp-main.225) / [Github](https://github.com/yihuaihong/TailoredKE) 
 
 <span style="color: black; font-weight: bold;">EMNLP 2024 Main</span>
 
@@ -131,7 +153,7 @@ Our work explores the instability in in-context learning-based Knowledge Editing
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/Main Structure.png' alt="sym" width="110%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/Main%20Structure.png' alt="ConsistentEE overview" width="110%" loading="lazy"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a id="consistentee">[ConsistentEE: A Consistent and Hardness-Guided Early Exiting Method for
@@ -169,13 +191,13 @@ Ziqian Zeng<sup>*</sup>, <span style="color: black; font-weight: bold;">Yihuai H
 - 2022.06 - 2023.08, Research Intern in South China University of Technology, Supervisor: <a href="https://ziqianzeng.github.io/" style="text-decoration: none;">Prof. Ziqian Zeng</a>, Guangzhou, China.
 
 # 🎖 Honors and Awards
-- *2025.10* <span style="color: black; font-weight: bold;">NeurIPS 2025 Scholar Award
+- *2025.10* <span style="color: black; font-weight: bold;">NeurIPS 2025 Scholar Award</span>
 - *2023.12* AAAI-24 Student Scholarship
 - *2023.11* <span style="color: black; font-weight: bold;">Top Ten Excellent Students Nomination Award</span> of South China University of Technology
 - *2023.09* <span style="color: black; font-weight: bold;">China National Scholarship</span> (top 0.1%) <!-- SCUT First Prize Scholarship -->
 - *2023.05* <span style="color: black; font-weight: bold;">Meritorious</span> Winner of The Mathematical Contest in Modeling (MCM)
-- *2021.07* Kaggle <span style="color: black; font-weight: bold;">Silver</span> medal (Top 5%) - CommonLit Readability Prize: Rate the complexity of literary passages for grades 3-12 classroom use Kaggle
 - *2022.03* Kaggle Bronze medal (Top 6%) - Evaluating Student Writing: Analyze argumentative writing elements from students grades 6-12
+- *2021.07* Kaggle <span style="color: black; font-weight: bold;">Silver</span> medal (Top 5%) - CommonLit Readability Prize: Rate the complexity of literary passages for grades 3-12 classroom use
 
 # 🙋‍♂️ Academic Services
 - Program Committee: ICLR (2026, 2025), NeurIPS (2025), ACL ARR (Feb. 2024 - June 2024, Feb. 2025 - Jan 2026)
