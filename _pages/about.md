@@ -31,7 +31,7 @@ redirect_from:
      - LLM Efficient Inference [[AAAI 2024 main track](https://ojs.aaai.org/index.php/AAAI/article/view/29922)]
 - Interpretability × Reasoning
      - Reasoning-Memorization Interplay [[ACL 2025 Findings](https://arxiv.org/abs/2503.23084)]
-     - CoT Faithfulness: CoT-Interpretability Alignment [[Preprint 2026](https://arxiv.org/abs/2609.38972)]
+     - CoT Monitoring: CoT-Interpretability Alignment [[Preprint 2026](https://arxiv.org/abs/2609.38972)]
 
 ## Before my PhD career, I was very fortunate to work with <a href="https://mega002.github.io/" style="text-decoration: none;">Prof. Mor Geva Pipek</a> from Tel Aviv University and Google Research on LLM Unlearning, and with <a href="https://zhijing-jin.com/fantasy" style="text-decoration: none;">Prof. Zhijing Jin</a> from University of Toronto on Mechanistic understanding of Reasoning. I was also a researcher at <a href="https://github.com/DAMO-NLP-SG" style="text-decoration: none;">Alibaba DAMO Academy</a> working with <a href="https://isakzhang.github.io" style="text-decoration: none;">Dr. Wenxuan Zhang</a> and <a href="https://royrong.me/" style="text-decoration: none;">Dr. Yu Rong</a>. More information in my <a href="https://drive.google.com/file/d/1iC1alfcwDm2u1QjHXvqFUjSCJ424WIBL/view?usp=sharing" style="text-decoration: none;">CV</a>. <span style="color:black; font-weight:bold;">And I am actively looking for internship opportunities for 2027 Summer! Please let me know if you think I am a good fit!</span>
 
