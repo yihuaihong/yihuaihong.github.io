@@ -239,108 +239,73 @@ a {
   }
 }
 
-/* ---------- Research story: the original nested list, drawn as a tree per direction ---------- */
+/* ---------- Research story: original nested list, colored per direction ---------- */
 
 .story {
   margin: .4em 0 1.6em;
-  padding: 1.15em 1.4em 1.05em 1.25em;
+  padding: 1.1em 1.4em 1em 1.2em;
   border: 1px solid var(--line);
   border-radius: 16px;
   background: var(--wash);
 
   > p {
-    margin-bottom: .85em;
+    margin-bottom: .7em;
     color: var(--ink);
     font-size: 1.05rem;
   }
 
   ul {
     margin: 0;
-    padding: 0;
-    list-style: none;
   }
 
   li {
-    margin: 0;
+    margin-bottom: .2em;
   }
 
-  /* direction headings */
+  /* direction headings: blue = capability, violet = safety */
   > ul > li {
-    --branch: #3d5bd9;
-    --branch-line: #b7c9ff;
+    --branch: #2b50d0;
+    --branch-marker: #6687ff;
+    --branch-tint: #dfe9ff;
+    color: var(--ink);
 
     & + li {
-      margin-top: .95em;
+      margin-top: .75em;
     }
 
     > strong {
+      display: inline-block;
+      padding: .02em .6em;
+      border-radius: 7px;
+      background: var(--branch-tint);
       color: var(--branch);
-      font-size: 1.06rem;
       font-weight: 700;
     }
 
-    &::before {
-      content: "";
-      display: inline-block;
-      width: .55em;
-      height: .55em;
-      margin-right: .5em;
-      border-radius: 50%;
-      background: var(--branch);
-      vertical-align: .08em;
+    a {
+      color: var(--branch);
+    }
+
+    > ul {
+      margin-top: .35em;
+      color: var(--text);
     }
   }
 
   > ul > li.branch--safe {
-    --branch: #6c4cd8;
-    --branch-line: #cfc0ff;
+    --branch: #6a3cd4;
+    --branch-marker: #a283ff;
+    --branch-tint: #ebe3ff;
   }
 
-  /* venue links take their branch's color */
-  > ul > li a {
-    color: var(--branch);
+  li::marker {
+    color: var(--branch-marker, #a596f5);
   }
 
   .branch-def {
-    display: block;
-    margin: .1em 0 .3em 1.05em;
+    margin-left: .5em;
     color: var(--muted);
-    font-size: .93rem;
-  }
-
-  /* tree lines: each item draws an elbow, and a riser to the next sibling */
-  ul ul {
-    margin-left: .25em;
-  }
-
-  ul ul > li {
-    position: relative;
-    padding: .16em 0 .16em 1.35em;
-
-    &::before {
-      content: "";
-      position: absolute;
-      left: 0;
-      top: 0;
-      width: .95em;
-      height: 1.02em;
-      border-left: 1.5px solid var(--branch-line);
-      border-bottom: 1.5px solid var(--branch-line);
-      border-bottom-left-radius: 7px;
-    }
-
-    &::after {
-      content: "";
-      position: absolute;
-      left: 0;
-      top: 1em;
-      bottom: 0;
-      border-left: 1.5px solid var(--branch-line);
-    }
-
-    &:last-child::after {
-      display: none;
-    }
+    font-size: .92rem;
   }
 }
 
