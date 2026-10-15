@@ -274,10 +274,46 @@ a {
 
 /* ---------- News: vertical timeline ---------- */
 
-#-news + ul {
+/* A card with its own vertical scroll; the soft shadows at the top/bottom edge
+   (background-attachment: local vs scroll) appear only when there is more to see. */
+.news-list {
   list-style: none;
+  max-height: 22rem;
   margin-left: 0;
-  padding-left: 0;
+  padding: 1.1em 1.1em .2em .9em;
+  overflow-y: auto;
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  background:
+    linear-gradient(#fff 30%, rgba(255, 255, 255, 0)) center top,
+    linear-gradient(rgba(255, 255, 255, 0), #fff 70%) center bottom,
+    radial-gradient(farthest-side at 50% 0, rgba(80, 80, 170, .16), transparent) center top,
+    radial-gradient(farthest-side at 50% 100%, rgba(80, 80, 170, .16), transparent) center bottom;
+  background-color: #fff;
+  background-repeat: no-repeat;
+  background-size: 100% 40px, 100% 40px, 100% 12px, 100% 12px;
+  background-attachment: local, local, scroll, scroll;
+  box-shadow: var(--card-shadow);
+  scrollbar-width: thin;
+  scrollbar-color: #cbbfff transparent;
+
+  &::-webkit-scrollbar {
+    width: 8px;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    border-radius: 8px;
+    background: #d6cbff;
+  }
+
+  &:focus-visible {
+    outline: 2px solid var(--link);
+    outline-offset: 2px;
+  }
+
+  @media (max-width: 599px) {
+    max-height: 26rem;
+  }
 
   > li {
     position: relative;
@@ -377,22 +413,6 @@ a {
       color: var(--link-hover);
     }
 
-    .venue {
-      display: inline-block;
-      padding: .1em .75em;
-      border-radius: 999px;
-      background: var(--lav-50);
-      color: #5b47c7;
-      font-size: .88rem;
-      font-weight: 600;
-    }
-
-    .venue--oral {
-      margin-left: .35em;
-      background: #fff0f6;
-      color: #c2417a;
-    }
-
     ul {
       margin-top: .3em;
     }
@@ -428,6 +448,25 @@ a {
   font-size: .78rem;
   font-weight: 700;
   letter-spacing: .01em;
+}
+
+.badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+/* Gold for distinctions (Oral): complements the lavender and does not read as an error like red */
+.badge--oral {
+  background: linear-gradient(135deg, #fff8df 0%, #ffedc2 100%);
+  border-color: #efd28a;
+  color: #8a5a00;
+
+  &::before {
+    content: "★";
+    margin-right: .3em;
+    color: #d6a21e;
+  }
 }
 
 /* Smaller avatar when the sidebar stacks above the content */
