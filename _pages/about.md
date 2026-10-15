@@ -22,33 +22,25 @@ redirect_from:
 
 Hello, I am Yihuai Hong, a 2nd Year Ph.D. student in Computer Science at New York University (Courant Institute). My research interests lie in Natural Language Processing and Language Models.
 
-<div class="research-map">
-<p class="rm-lead">My research centers on the <b>Mechanistic Interpretability of LLMs</b>: understanding how <b>knowledge</b> and <b>reasoning</b> are formed and processed inside LLMs, and turning that understanding into action in two directions.</p>
-<div class="rm-dirs">
-<section class="rm-dir rm-dir--cap" aria-labelledby="rm-cap">
-<h3 id="rm-cap" class="rm-title">Interpretability for Capability</h3>
-<p class="rm-def">Using what we find inside models to make them learn faster, reason better, and run more efficiently.</p>
-<ul class="rm-items">
-<li><div class="rm-item rm-item--wip"><span class="rm-name">Manifold Pretraining</span><span class="rm-tag rm-tag--wip">Preprint soon</span><span class="rm-desc">Turning the helix-like number geometry found in some LLMs into a training signal for arithmetic</span></div></li>
-<li><div class="rm-item rm-item--wip"><span class="rm-name">LooM</span><span class="rm-tag rm-tag--wip">In progress</span><span class="rm-desc">A looped transformer that carries out multi-step computation in its hidden states and never writes a chain of thought</span></div></li>
-<li><a class="rm-item" href="#param_specialization"><span class="rm-name">Parameter Specialization</span><span class="rm-tag">NeurIPS 2025</span></a></li>
-<li><a class="rm-item" href="#lirefs"><span class="rm-name">Reasoning-Memorization Interplay</span><span class="rm-tag">ACL 2025 Findings</span></a></li>
-<li><a class="rm-item" href="#knowledge-editing"><span class="rm-name">Tailored Knowledge Editing</span><span class="rm-tag">EMNLP 2024 Main</span></a></li>
-<li><a class="rm-item" href="#consistentee"><span class="rm-name">Efficient Inference (ConsistentEE)</span><span class="rm-tag">AAAI 2024</span></a></li>
-</ul>
-</section>
-<section class="rm-dir rm-dir--safe" aria-labelledby="rm-safe">
-<h3 id="rm-safe" class="rm-title">Interpretability for Safety</h3>
-<p class="rm-def">Checking models from the inside: whether unlearning truly removes knowledge, whether chain-of-thought reflects the real computation, and where misbehavior comes from.</p>
-<ul class="rm-items">
-<li><a class="rm-item" href="#cia"><span class="rm-name">CoT-Interpretability Alignment</span><span class="rm-tag">Preprint 2026</span></a></li>
-<li><div class="rm-item rm-item--wip"><span class="rm-name">Roots of Misalignment</span><span class="rm-tag rm-tag--wip">In progress</span><span class="rm-desc">Tracing where LLM agents' misbehavior comes from inside the model</span></div></li>
-<li><a class="rm-item" href="#conceptvectors"><span class="rm-name">Parametric Knowledge Benchmark</span><span class="rm-tag">EMNLP 2025 Main</span></a></li>
-<li><a class="rm-item" href="#finetuning-unlearning"><span class="rm-name">Dissecting Fine-Tuning Unlearning</span><span class="rm-tags"><span class="rm-tag">EMNLP 2024 Main</span><span class="rm-tag rm-tag--oral">Oral</span></span></a></li>
-<li><a class="rm-item" href="https://arxiv.org/abs/2505.22586"><span class="rm-name">In-Parameter Concept Erasure</span><span class="rm-tag">EMNLP 2025 Main</span></a></li>
-</ul>
-</section>
-</div>
+<div class="story" markdown="1">
+
+My research story revolves around the <span style="color:black; font-weight:bold;">Mechanistic Interpretability and Understanding of LLMs</span>, especially how <span style="color:black; font-weight:bold;">"Knowledge"</span> and <span style="color:black; font-weight:bold;">"Reasoning"</span> are formed and processed in LLMs, and how this understanding can be turned into action in two directions:
+
+- {: .branch .branch--cap} **Interpretability for Capability** <span class="branch-def">making models learn faster, reason better, and run more efficiently</span>
+     - Manifold Pretraining <span class="wip">Preprint soon</span>
+     - LooM: Latent Looped Reasoning <span class="wip">In progress</span>
+     - LLM Knowledge Distribution [[NeurIPS 2025](http://arxiv.org/abs/2505.17260)]
+     - Reasoning-Memorization Interplay [[ACL 2025 Findings](https://arxiv.org/abs/2503.23084)]
+     - LLM Knowledge Editing [[EMNLP 2024 Main](https://aclanthology.org/2024.emnlp-main.225)]
+     - LLM Efficient Inference [[AAAI 2024 main track](https://ojs.aaai.org/index.php/AAAI/article/view/29922)]
+- {: .branch .branch--safe} **Interpretability for Safety** <span class="branch-def">checking from the inside what models really know, compute, and do</span>
+     - CoT Monitoring: CoT-Interpretability Alignment [[Preprint 2026](https://arxiv.org/abs/2609.38972)]
+     - Roots of Misalignment <span class="wip">In progress</span>
+     - LLM Unlearning
+          - Parametric Knowledge Benchmark [[EMNLP 2025 Main](https://arxiv.org/abs/2406.11614)]
+          - Dissect Finetuning Unlearning [[EMNLP 2024 Main](https://arxiv.org/abs/2410.06606)]
+          - LLM Unlearning methods [[EMNLP 2025 Main](https://arxiv.org/abs/2505.22586)]
+
 </div>
 
 Before my PhD career, I was very fortunate to work with <a href="https://mega002.github.io/" style="text-decoration: none;">Prof. Mor Geva Pipek</a> from Tel Aviv University and Google Research on LLM Unlearning, and with <a href="https://zhijing-jin.com/fantasy" style="text-decoration: none;">Prof. Zhijing Jin</a> from University of Toronto on Mechanistic understanding of Reasoning. I was also a researcher at <a href="https://github.com/DAMO-NLP-SG" style="text-decoration: none;">Alibaba DAMO Academy</a> working with <a href="https://isakzhang.github.io" style="text-decoration: none;">Dr. Wenxuan Zhang</a> and <a href="https://royrong.me/" style="text-decoration: none;">Dr. Yu Rong</a>. More information in my <a href="https://drive.google.com/file/d/1iC1alfcwDm2u1QjHXvqFUjSCJ424WIBL/view?usp=sharing" style="text-decoration: none;">CV</a>. <span class="hiring">And I am actively looking for internship opportunities for 2027 Summer! Please let me know if you think I am a good fit!</span>
