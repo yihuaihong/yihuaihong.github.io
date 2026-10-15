@@ -34,7 +34,7 @@ My research story revolves around the <span style="color:black; font-weight:bold
      - {: .subgroup} Post-hoc Intervention
           - Reasoning-Memorization Interplay [[ACL 2025 Findings](https://arxiv.org/abs/2503.23084)]
           - LLM Knowledge Editing [[EMNLP 2024 Main](https://aclanthology.org/2024.emnlp-main.225)]
-     - LLM Efficient Inference [[AAAI 2024 main track](https://ojs.aaai.org/index.php/AAAI/article/view/29922)]
+          - LLM Efficient Inference [[AAAI 2024 main track](https://ojs.aaai.org/index.php/AAAI/article/view/29922)]
 - {: .branch .branch--safe} **Interpretability for Safety** <span class="branch-def">checking from the inside what models really know, compute, and do</span>
      - {: .subgroup} LLM Oversight
           - CoT Monitoring: CoT-Interpretability Alignment [[Preprint 2026](https://arxiv.org/abs/2609.38972)]
