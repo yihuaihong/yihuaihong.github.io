@@ -24,7 +24,7 @@ Hello, I am Yihuai Hong, a 2nd Year Ph.D. student in Computer Science at New Yor
 
 <div class="story" markdown="1">
 
-My research story revolves around the <span style="color:black; font-weight:bold;">Mechanistic Interpretability of LLMs</span>: understanding how <span style="color:black; font-weight:bold;">"Knowledge"</span> and <span style="color:black; font-weight:bold;">"Reasoning"</span> are formed and processed inside LLMs, and turning that understanding into action to make models more <span style="color:black; font-weight:bold;">capable</span> and <span style="color:black; font-weight:bold;">safer</span>:
+My research story revolves around the <span style="color:black; font-weight:bold;">Mechanistic Interpretability of LLMs</span>, turning what we find inside models into action to make them more <span style="color:black; font-weight:bold;">capable</span> and <span style="color:black; font-weight:bold;">safer</span>:
 
 - {: .branch .branch--cap} **Interpretability for Capability** <span class="branch-def">making models learn faster, reason better, and run more efficiently</span>
      - {: .subgroup} Training & Architecture
