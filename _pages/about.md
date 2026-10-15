@@ -24,19 +24,22 @@ Hello, I am Yihuai Hong, a 2nd Year Ph.D. student in Computer Science at New Yor
 
 <div class="story" markdown="1">
 
-My research story revolves around the <span style="color:black; font-weight:bold;">Mechanistic Interpretability and Understanding of LLMs</span>, especially how <span style="color:black; font-weight:bold;">"Knowledge"</span> and <span style="color:black; font-weight:bold;">"Reasoning"</span> are formed and processed in LLMs, and how this understanding can be turned into action in two directions:
+My research story revolves around the <span style="color:black; font-weight:bold;">Mechanistic Interpretability of LLMs</span>: understanding how <span style="color:black; font-weight:bold;">"Knowledge"</span> and <span style="color:black; font-weight:bold;">"Reasoning"</span> are formed and processed inside LLMs, and turning that understanding into action to make models more <span style="color:black; font-weight:bold;">capable</span> and <span style="color:black; font-weight:bold;">safer</span>:
 
 - {: .branch .branch--cap} **Interpretability for Capability** <span class="branch-def">making models learn faster, reason better, and run more efficiently</span>
-     - Manifold Pretraining <span class="wip">Preprint soon</span>
-     - LooM: Latent Looped Reasoning <span class="wip">In progress</span>
-     - LLM Knowledge Distribution [[NeurIPS 2025](http://arxiv.org/abs/2505.17260)]
-     - Reasoning-Memorization Interplay [[ACL 2025 Findings](https://arxiv.org/abs/2503.23084)]
-     - LLM Knowledge Editing [[EMNLP 2024 Main](https://aclanthology.org/2024.emnlp-main.225)]
+     - {: .subgroup} Training & Architecture
+          - Manifold Pretraining <span class="wip">Preprint soon</span>
+          - LooM: Latent Looped Reasoning <span class="wip">In progress</span>
+          - LLM Knowledge Distribution [[NeurIPS 2025](http://arxiv.org/abs/2505.17260)]
+     - {: .subgroup} Post-hoc Intervention
+          - Reasoning-Memorization Interplay [[ACL 2025 Findings](https://arxiv.org/abs/2503.23084)]
+          - LLM Knowledge Editing [[EMNLP 2024 Main](https://aclanthology.org/2024.emnlp-main.225)]
      - LLM Efficient Inference [[AAAI 2024 main track](https://ojs.aaai.org/index.php/AAAI/article/view/29922)]
 - {: .branch .branch--safe} **Interpretability for Safety** <span class="branch-def">checking from the inside what models really know, compute, and do</span>
-     - CoT Monitoring: CoT-Interpretability Alignment [[Preprint 2026](https://arxiv.org/abs/2609.38972)]
-     - Roots of Misalignment <span class="wip">In progress</span>
-     - LLM Unlearning
+     - {: .subgroup} LLM Oversight
+          - CoT Monitoring: CoT-Interpretability Alignment [[Preprint 2026](https://arxiv.org/abs/2609.38972)]
+          - Roots of Misalignment <span class="wip">In progress</span>
+     - {: .subgroup} LLM Unlearning
           - Parametric Knowledge Benchmark [[EMNLP 2025 Main](https://arxiv.org/abs/2406.11614)]
           - Dissect Finetuning Unlearning [[EMNLP 2024 Main](https://arxiv.org/abs/2410.06606)]
           - LLM Unlearning methods [[EMNLP 2025 Main](https://arxiv.org/abs/2505.22586)]

@@ -307,6 +307,22 @@ a {
     color: var(--muted);
     font-size: .92rem;
   }
+
+  /* sub-group labels inside a direction */
+  .subgroup {
+    color: var(--ink);
+    font-weight: 600;
+
+    & + .subgroup {
+      margin-top: .3em;
+    }
+
+    > ul {
+      margin-top: .15em;
+      color: var(--text);
+      font-weight: 400;
+    }
+  }
 }
 
 /* Not yet published: dashed pill with a breathing dot */
