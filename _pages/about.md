@@ -218,8 +218,6 @@ Ziqian Zeng<sup>*</sup>, <span style="color: black; font-weight: bold;">Yihuai H
 - Section Leader: Spring 2026 - DS-GA 1003 Machine Learning - NYU Center for Data Science
 - Section Leader: Fall 2025 - DS-GA 1006 Capstone Project and Presentation - NYU Center for Data Science
   
-# 📚 Patents 
-- *2022.09* Self-supervised pre-training method, system and medium for Chinese Pinyin spelling correction.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
