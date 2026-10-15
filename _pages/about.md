@@ -61,7 +61,7 @@ Before my PhD career, I was very fortunate to work with <a href="https://mega002
 
 # 📝 Research
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/cia_thumb.jpg' alt="Overview of CoT-Interpretability Alignment (CIA)" width="110%" loading="lazy"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/cia_thumb.jpg' alt="Overview of CoT-Interpretability Alignment (CIA)" width="110%" loading="lazy"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a id="cia">[Making LLMs Say What They Think: Measuring and Improving CoT-Interpretability Alignment](https://arxiv.org/abs/2609.38972)</a>  
@@ -69,6 +69,8 @@ Before my PhD career, I was very fortunate to work with <a href="https://mega002
 <span style="color: black; font-weight: bold;">Yihuai Hong</span>, Shauli Ravfogel, Chen Zhao<sup>†</sup>, Eunsol Choi<sup>†</sup>
 
 [Arxiv](https://arxiv.org/abs/2609.38972) / [GitHub](https://github.com/yihuaihong/CIA-minimal-repro)
+
+<span class="venue">Preprint 2026</span>
 
 - We propose CoT-Interpretability Alignment (CIA), a metric that measures the agreement between the reasoning an LLM verbalizes in its chain-of-thought and its internal reasoning strategy as detected by interpretability tools.
 - Across three tasks (two-hop question answering, hint intervention, and integer multiplication) and three LLMs, models show limited alignment (44.8–75.9%).
@@ -78,7 +80,7 @@ Before my PhD career, I was very fortunate to work with <a href="https://mega002
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/param_special.jpg' alt="Parameter specialization overview" width="110%" loading="lazy"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/param_special.jpg' alt="Parameter specialization overview" width="110%" loading="lazy"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a id="param_specialization">[The Rise of Parameter Specialization for Knowledge Storage in Large Language Models](http://arxiv.org/abs/2505.17260)</a>  
@@ -87,11 +89,13 @@ Before my PhD career, I was very fortunate to work with <a href="https://mega002
 
 [Arxiv](http://arxiv.org/abs/2505.17260) / [GitHub](https://github.com/yihuaihong/Parameter_Specialization)
 
+<span class="venue">NeurIPS 2025</span>
+
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025 Main</div><img src='images/unlearn_data_process2_page-0001.jpg' alt="ConceptVectors benchmark overview" width="110%" loading="lazy"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/unlearn_data_process2_page-0001.jpg' alt="ConceptVectors benchmark overview" width="110%" loading="lazy"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a id="conceptvectors">[Intrinsic Test of Unlearning Using Parametric Knowledge Traces](https://yihuaihong.github.io/ConceptVectors.github.io/)</a>  
@@ -99,6 +103,8 @@ Before my PhD career, I was very fortunate to work with <a href="https://mega002
 <span style="color: black; font-weight: bold;">Yihuai Hong</span>, Lei Yu, Haiqin Yang, Shauli Ravfogel, Mor Geva
 
 [Website](https://yihuaihong.github.io/ConceptVectors.github.io) / [Arxiv](https://arxiv.org/pdf/2406.11614) / [GitHub](https://github.com/yihuaihong/ConceptVectors) / [Huggingface](https://huggingface.co/datasets/YihuaiHong/ConceptVectors) / [Twitter](https://x.com/YihuaiH91773/status/1803871246037164489)
+
+<span class="venue">EMNLP 2025 Main</span>
 
 - Our findings reveal that current unlearning methods only modify the model's behavior without truly erasing the encoded knowledge in its parameters.
 - To address this, we present the ConceptVectors Benchmark, where each vector is closely tied to a specific concept. It consists of 285 concept vectors on two open-source LLMs.
@@ -108,7 +114,7 @@ Before my PhD career, I was very fortunate to work with <a href="https://mega002
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 Findings</div><img src='images/interp_reasoning.jpg' alt="Linear reasoning features overview" width="110%" loading="lazy"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/interp_reasoning.jpg' alt="Linear reasoning features overview" width="110%" loading="lazy"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a id="lirefs">[The Reasoning-Memorization Interplay in Language Models Is Mediated by a Single Direction](https://arxiv.org/abs/2503.23084)</a>  
@@ -117,11 +123,13 @@ Before my PhD career, I was very fortunate to work with <a href="https://mega002
 
 [Arxiv](https://arxiv.org/abs/2503.23084) / [GitHub](https://github.com/yihuaihong/Linear_Reasoning_Features)
 
+<span class="venue">ACL 2025 Findings</span>
+
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badges"><div class="badge">EMNLP 2024 Main</div><div class="badge badge--oral">Oral</div></div><img src='images/dissect-ft-unlearning.jpg' alt="Dissecting fine-tuning unlearning overview" width="110%" loading="lazy"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/dissect-ft-unlearning.jpg' alt="Dissecting fine-tuning unlearning overview" width="110%" loading="lazy"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a id="finetuning-unlearning">[Dissecting Fine-Tuning Unlearning in Large Language Models](https://arxiv.org/abs/2410.06606)</a>
@@ -130,13 +138,15 @@ Before my PhD career, I was very fortunate to work with <a href="https://mega002
 
 [Arxiv](https://arxiv.org/abs/2410.06606) / [GitHub](https://github.com/yihuaihong/Dissecting-FT-Unlearning)
 
+<span class="venue">EMNLP 2024 Main</span> <span class="venue venue--oral">Oral</span>
+
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
 In this paper, we delve into the limitations of fine-tuning-based unlearning through activation patching and parameter restoration experiments. Our findings reveal that these methods alter the model's knowledge retrieval process, providing further evidence that they do not genuinely erase the problematic knowledge embedded in the model parameters. Instead, the coefficients generated by the MLP components in the model's final layer are the primary contributors to these seemingly positive unlearning effects, playing a crucial role in controlling the model's behaviors.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024 Main</div><img src='images/main%20structure_page-0001.jpg' alt="TailoredKE overview" width="110%" loading="lazy"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/main%20structure_page-0001.jpg' alt="TailoredKE overview" width="110%" loading="lazy"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a id="knowledge-editing">[Interpretability-based Tailored Knowledge Editing in Transformers](https://aclanthology.org/2024.emnlp-main.225)</a>
@@ -145,13 +155,15 @@ In this paper, we delve into the limitations of fine-tuning-based unlearning thr
 
 [Paper](https://aclanthology.org/2024.emnlp-main.225) / [Github](https://github.com/yihuaihong/TailoredKE) 
 
+<span class="venue">EMNLP 2024 Main</span>
+
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
 Our work explores the instability in in-context learning-based Knowledge Editing outcomes, providing insights into its reasons and distinctions from other Knowledge Editing methods. Leveraging findings on the critical role of feed-forward MLPs in decoder-only models, we propose a tailored knowledge editing method, TailoredKE, that considers the unique information flow of each sample. Model interpretability reveals diverse attribute recall across transformer layers, guiding edits to specific features at different depths and mitigating over-editing issues.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/Main%20Structure.png' alt="ConsistentEE overview" width="110%" loading="lazy"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/Main%20Structure.png' alt="ConsistentEE overview" width="110%" loading="lazy"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a id="consistentee">[ConsistentEE: A Consistent and Hardness-Guided Early Exiting Method for
@@ -160,6 +172,8 @@ Accelerating Language Models Inference](https://arxiv.org/abs/2312.11882)</a>
 Ziqian Zeng<sup>*</sup>, <span style="color: black; font-weight: bold;">Yihuai Hong<sup>*</sup></span>, Huiping Zhuang, Cen Chen, HongLiang Dai
 
 [Arxiv](https://arxiv.org/abs/2312.11882) / [GitHub](https://github.com/ZeroNLP/ConsistentEE)
+
+<span class="venue">AAAI 2024 Main Track</span>
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
