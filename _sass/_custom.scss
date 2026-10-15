@@ -1,0 +1,451 @@
+/* ==========================================================================
+   Custom theme: light blue + lavender
+   Loaded last (see assets/css/main.scss), so these rules refine the
+   original Minimal Mistakes / AcadHomepage styles without editing them.
+   ========================================================================== */
+
+:root {
+  --ink: #232842;
+  --text: #3d4360;
+  --muted: #6c7190;
+  --line: #e6e8f3;
+  --page: #f7f8fc;
+  --link: #4a62d6;
+  --link-hover: #7a5fe6;
+  --blue-50: #eef4ff;
+  --blue-200: #c4d6ff;
+  --lav-50: #f4f0ff;
+  --lav-200: #d8ccff;
+  --wash: linear-gradient(135deg, #eef4ff 0%, #f4efff 100%);
+  --accent-bar: linear-gradient(90deg, #8fb0ff 0%, #b49bff 100%);
+  --card-shadow: 0 1px 2px rgba(35, 40, 90, .04), 0 6px 20px rgba(70, 80, 160, .06);
+  --card-shadow-hover: 0 2px 6px rgba(35, 40, 90, .06), 0 14px 34px rgba(95, 90, 200, .13);
+}
+
+/* ---------- Base ---------- */
+
+html {
+  background-color: var(--page);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  @include breakpoint($large) {
+    font-size: 16px;
+  }
+}
+
+body {
+  background-color: var(--page);
+  color: var(--text);
+}
+
+a {
+  color: var(--link);
+  text-decoration: none;
+  transition: color .15s ease;
+
+  &:hover {
+    color: var(--link-hover);
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+}
+
+::selection {
+  background: var(--lav-200);
+  color: var(--ink);
+}
+
+/* ---------- Top navigation ---------- */
+
+.masthead {
+  background-color: rgba(255, 255, 255, .82);
+  -webkit-backdrop-filter: saturate(160%) blur(12px);
+  backdrop-filter: saturate(160%) blur(12px);
+  border-bottom: 1px solid var(--line);
+}
+
+.greedy-nav {
+  background: transparent;
+
+  a {
+    color: var(--muted);
+    font-weight: 500;
+    font-size: .95rem;
+
+    &:hover {
+      color: var(--ink);
+      text-decoration: none;
+    }
+  }
+
+  .visible-links {
+    li:first-child a {
+      color: var(--ink);
+      font-weight: 700;
+      letter-spacing: -.01em;
+    }
+
+    a:before {
+      height: 2px;
+      border-radius: 2px;
+      background: var(--accent-bar);
+    }
+  }
+
+  button {
+    background-color: var(--link);
+    border-radius: 6px;
+  }
+}
+
+/* ---------- Sidebar ---------- */
+
+.author__avatar img {
+  @include breakpoint($large) {
+    padding: 4px;
+    border: 0;
+    background: linear-gradient(135deg, #c6d9ff 0%, #dccdff 100%);
+    box-shadow: 0 10px 28px rgba(95, 95, 200, .16);
+  }
+}
+
+.sidebar .author__name,
+.author__name {
+  color: var(--ink);
+  font-weight: 700;
+  letter-spacing: -.01em;
+
+  @include breakpoint($large) {
+    font-size: 1.3rem;
+    line-height: 1.3;
+  }
+}
+
+.author__bio {
+  color: var(--muted);
+}
+
+.author__urls-wrapper {
+  .author__urls li,
+  .author__urls a {
+    color: var(--text);
+  }
+
+  .author__urls a:hover {
+    color: var(--link-hover);
+    text-decoration: none;
+  }
+
+  .social-icons i,
+  .social-icons .fa,
+  .social-icons .fas,
+  .social-icons .fab,
+  .social-icons .ai {
+    color: var(--link);
+  }
+}
+
+.author__urls_sm a i {
+  color: var(--link);
+}
+
+/* ---------- Page content ---------- */
+
+.page__content {
+  color: var(--text);
+  line-height: 1.65;
+
+  a {
+    color: var(--link);
+    text-decoration: none;
+  }
+
+  a:hover {
+    color: var(--link-hover);
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+
+  /* Section titles: no full-width rule, a short gradient bar instead */
+  h1 {
+    position: relative;
+    margin-top: 2.1em;
+    padding-bottom: .45em;
+    border-bottom: 0;
+    font-size: 1.55rem;
+    font-weight: 700;
+    letter-spacing: -.01em;
+    color: var(--ink);
+
+    &::after {
+      content: "";
+      position: absolute;
+      left: 0;
+      bottom: 0;
+      width: 44px;
+      height: 3px;
+      border-radius: 3px;
+      background: var(--accent-bar);
+    }
+  }
+
+  /* Inline emphasis written as black bold spans in about.md */
+  span[style*="color: black"],
+  span[style*="color:black"] {
+    color: var(--ink) !important;
+    font-weight: 650 !important;
+  }
+
+  li::marker {
+    color: #a596f5;
+  }
+
+  /* Dates written as *2025.10* at the start of list items */
+  li > em:first-child {
+    font-style: normal;
+    font-weight: 600;
+    color: var(--link);
+    font-variant-numeric: tabular-nums;
+    margin-right: .25em;
+  }
+}
+
+/* ---------- Intro ---------- */
+
+.intro {
+  > p {
+    font-size: 1.12rem;
+    line-height: 1.72;
+    color: var(--text);
+    margin-bottom: 1.1em;
+  }
+
+  > p:first-child {
+    font-size: 1.22rem;
+    color: var(--ink);
+  }
+
+  a {
+    font-weight: 600;
+  }
+
+  /* Highlighter stroke under the internship sentence */
+  .hiring {
+    color: var(--ink);
+    font-weight: 600;
+    background: linear-gradient(transparent 56%, #ddd2ff 56%, #d6e4ff 94%, transparent 94%);
+    -webkit-box-decoration-break: clone;
+    box-decoration-break: clone;
+  }
+}
+
+/* Research story: a soft card */
+.story {
+  margin: .4em 0 1.6em;
+  padding: 1.1em 1.4em 1.1em 1.2em;
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  background: var(--wash);
+
+  > p {
+    margin-bottom: .6em;
+    color: var(--ink);
+    font-size: 1.05rem;
+  }
+
+  ul {
+    margin: 0;
+  }
+
+  li {
+    margin-bottom: .2em;
+  }
+
+  > ul > li {
+    font-weight: 600;
+    color: var(--ink);
+  }
+
+  > ul > li > ul {
+    font-weight: 400;
+    color: var(--text);
+  }
+}
+
+/* ---------- News: vertical timeline ---------- */
+
+#-news + ul {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+
+  > li {
+    position: relative;
+    padding-left: 1.7em;
+    margin-bottom: 1em;
+
+    &::before {
+      content: "";
+      position: absolute;
+      left: .2em;
+      top: .5em;
+      width: 9px;
+      height: 9px;
+      border-radius: 50%;
+      background: #fff;
+      border: 2px solid #9db4ff;
+    }
+
+    &::after {
+      content: "";
+      position: absolute;
+      left: calc(.2em + 5px);
+      top: 1.35em;
+      bottom: -1.05em;
+      width: 1px;
+      background: var(--line);
+    }
+
+    &:last-child::after {
+      display: none;
+    }
+  }
+}
+
+.news-date {
+  display: inline-block;
+  margin-right: .45em;
+  padding: 0 .5em;
+  border-radius: 6px;
+  background: var(--blue-50);
+  color: var(--link);
+  font-weight: 600;
+  font-size: .92em;
+  font-variant-numeric: tabular-nums;
+}
+
+/* ---------- Research: paper cards ---------- */
+
+.paper-box {
+  align-items: flex-start;
+  margin: 1.25em 0;
+  padding: 1.4em;
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  background: #fff;
+  box-shadow: var(--card-shadow);
+  transition: box-shadow .2s ease, transform .2s ease;
+
+  &:hover {
+    box-shadow: var(--card-shadow-hover);
+    transform: translateY(-2px);
+  }
+
+  .paper-box-image {
+    > div {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 10px;
+      width: 100%;
+    }
+
+    img {
+      width: 100%;
+      max-width: 100%;
+      aspect-ratio: 16 / 9;
+      object-fit: contain;
+      border-radius: 10px;
+      background: #fff;
+      box-shadow: none;
+    }
+  }
+
+  .paper-box-text {
+    > p {
+      margin-bottom: .55em;
+    }
+
+    > p:first-child a {
+      font-size: 1.1rem;
+      font-weight: 700;
+      line-height: 1.35;
+      color: var(--ink);
+    }
+
+    > p:first-child a:hover {
+      color: var(--link-hover);
+    }
+
+    .venue {
+      display: inline-block;
+      padding: .1em .75em;
+      border-radius: 999px;
+      background: var(--lav-50);
+      color: #5b47c7;
+      font-size: .88rem;
+      font-weight: 600;
+    }
+
+    .venue--oral {
+      margin-left: .35em;
+      background: #fff0f6;
+      color: #c2417a;
+    }
+
+    ul {
+      margin-top: .3em;
+    }
+
+    li,
+    > p:last-child {
+      color: var(--muted);
+      font-size: .97rem;
+    }
+  }
+
+  @include breakpoint($medium) {
+    .paper-box-image {
+      max-width: 38%;
+    }
+
+    .paper-box-text {
+      max-width: 62%;
+      padding-left: 1.8em;
+    }
+  }
+}
+
+/* Venue badge: sits above the figure instead of covering it */
+.badge {
+  position: static;
+  margin: 0;
+  padding: .2em .8em;
+  border-radius: 999px;
+  background: var(--wash);
+  border: 1px solid var(--lav-200);
+  color: #4b45c4;
+  font-size: .78rem;
+  font-weight: 700;
+  letter-spacing: .01em;
+}
+
+/* Smaller avatar when the sidebar stacks above the content */
+@media (max-width: 1023px) {
+  .author__avatar img {
+    width: 96px !important;
+    min-width: 96px;
+    max-width: 96px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .paper-box,
+  a {
+    transition: none;
+  }
+
+  .paper-box:hover {
+    transform: none;
+  }
+}
