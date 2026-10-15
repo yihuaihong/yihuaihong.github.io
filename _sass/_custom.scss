@@ -473,39 +473,6 @@ a {
   letter-spacing: .01em;
 }
 
-/* RedNote (Xiaohongshu) has no Font Awesome icon: a small rounded tile in the icon color */
-.xhs-icon {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  width: 1.05em;
-  height: 1.05em;
-  margin-inline: .08em .2em;
-  border-radius: .26em;
-  background: var(--link);
-  color: #fff;
-  font-style: normal;
-  font-weight: 700;
-  line-height: 1;
-  vertical-align: -.14em;
-
-  /* beat the sidebar rules that paint every icon in the link color */
-  .author__urls-wrapper .social-icons &,
-  .author__urls_sm a & {
-    color: #fff;
-  }
-
-  .author__urls_sm a & {
-    width: .9em;
-    height: .9em;
-  }
-
-  &::before {
-    content: "书";
-    font-size: .62em;
-  }
-}
-
 /* Smaller avatar when the sidebar stacks above the content */
 @media (max-width: 1023px) {
   .author__avatar img {
