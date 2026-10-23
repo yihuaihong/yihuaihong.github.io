@@ -177,7 +177,7 @@ Interpretability shows that different samples recall their attributes at differe
 <a id="consistentee">[ConsistentEE: A Consistent and Hardness-Guided Early Exiting Method for
 Accelerating Language Models Inference](https://arxiv.org/abs/2312.11882)</a>
 
-Ziqian Zeng<sup>*</sup>, <span style="color: black; font-weight: bold;">Yihuai Hong<sup>*</sup></span>, Huiping Zhuang, Cen Chen, HongLiang Dai
+Ziqian Zeng<sup>*</sup>, <span style="color: black; font-weight: bold;">Yihuai Hong<sup>*</sup></span>, Hongliang Dai, Huiping Zhuang, Cen Chen
 
 [Arxiv](https://arxiv.org/abs/2312.11882) / [GitHub](https://github.com/ZeroNLP/ConsistentEE)
 
