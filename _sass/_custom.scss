@@ -447,7 +447,7 @@ a {
 /* ---------- Research: paper cards ---------- */
 
 .paper-box {
-  align-items: flex-start;
+  align-items: center; /* figure sits mid-height next to the text */
   margin: 1.25em 0;
   padding: 1.4em;
   border: 1px solid var(--line);
