@@ -28,7 +28,7 @@ My research story revolves around the <span style="color:black; font-weight:bold
 
 - {: .branch .branch--cap} **Interpretability for Capability** <span class="branch-def">making models learn faster, reason better, and run more efficiently</span>
      - {: .subgroup} Training & Architecture
-          - Manifold Pretraining Engineering <span class="wip">Preprint soon</span>
+          - Manifold Pretraining Engineering [[Preprint 2026](https://github.com/yihuaihong/manifolds)]
           - LooM: Latent Looped Reasoning Model <span class="wip">In progress</span>
           - LLM Knowledge Distribution [[NeurIPS 2025](http://arxiv.org/abs/2505.17260)]
      - {: .subgroup} Post-hoc Intervention
@@ -55,6 +55,7 @@ Before my PhD career, I was very fortunate to work with <a href="https://mega002
 
 
 # 🔥 News
+- <span class="news-date">2026.11</span> 🚀🚀 New preprint! <span style="color: black; font-weight: bold;">[Manifold Pretraining Engineering: Right Geometry, Right Time, Right Place](https://github.com/yihuaihong/manifolds)</span> We turn the concept manifolds found by interpretability (such as the helix for numbers) into an auxiliary pretraining loss, and show when it helps: with the right geometry, at the right time, and in the right place.
 - <span class="news-date">2026.09</span> 🚀🚀 Please check my newest paper! <span style="color: black; font-weight: bold;">[Making LLMs Say What They Think: Measuring and Improving CoT-Interpretability Alignment](https://arxiv.org/abs/2609.38972)</span> We propose <span style="color: black; font-weight: bold;">CIA</span>, a metric that checks whether an LLM's chain-of-thought matches the reasoning detected inside the model by interpretability tools, and show that post-training can substantially improve this alignment while maintaining or improving task accuracy!
 - <span class="news-date">2025.09</span> 🎉🎉 <span style="color: black; font-weight: bold;">My first NeurIPS!</span> One <span style="color: black; font-weight: bold;">1st-author</span> paper has been accepted to NeurIPS 2025! "The Rise of Parameter Specialization for Knowledge Storage in Large Language Models"! And I received the <span style="color: black; font-weight: bold;">NeurIPS 2025 Scholar Award!</span> Thanks to the guidance from Prof. Wenxuan Zhang, Dr. Yu Rong, and the help of other collaborators! See you at San Diego!
 - <span class="news-date">2025.08</span> 🎉🎉 One <span style="color: black; font-weight: bold;">1st-author</span> paper and one co-authored paper have been both accepted to <span style="color: black; font-weight: bold;">EMNLP 2025 Main</span>! "Intrinsic Test of Unlearning Using Parametric Knowledge Traces"! Thanks to the guidance from Prof. Mor Geva, Dr. Shauli Ravfogel, Dr. Lei Yu, and the help of other collaborators! 
@@ -66,6 +67,23 @@ Before my PhD career, I was very fortunate to work with <a href="https://mega002
 
 
 # 📝 Research
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/manifold_thumb.jpg' alt="A helix prior on number representations during pretraining and fine-tuning" width="110%" loading="lazy"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a id="manifold">[Manifold Pretraining Engineering: Right Geometry, Right Time, Right Place](https://github.com/yihuaihong/manifolds)</a>  
+
+<span style="color: black; font-weight: bold;">Yihuai Hong</span>, Hanxi Ma, Chen Zhao
+
+Arxiv (coming soon) / [GitHub](https://github.com/yihuaihong/manifolds)
+
+<span class="venue">Preprint 2026</span>
+
+We turn the manifolds that interpretability has found inside language models into a training technique: an auxiliary loss that pulls a model's representations of a concept towards a target manifold. With arithmetic as a testbed, a helix prior raises the held-out accuracy of small models pretrained on scarce arithmetic data from 18% to 70% (averaged over training), at every model size we tested from 53M to 1.07B parameters. The prior helps only with the right geometry, at the right time, and in the right place.
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/cia_thumb.jpg' alt="Overview of CoT-Interpretability Alignment (CIA)" width="110%" loading="lazy"></div></div>
 <div class='paper-box-text' markdown="1">
