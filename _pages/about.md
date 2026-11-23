@@ -68,7 +68,7 @@ Before my PhD career, I was very fortunate to work with <a href="https://mega002
 
 # 📝 Research
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/manifold_thumb.jpg' alt="A helix prior on number representations during pretraining and fine-tuning" width="110%" loading="lazy"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><video src='images/manifold_thumb.mp4' poster='images/manifold_thumb.jpg' autoplay muted loop playsinline aria-label="The numbers 0 to 999 inside a 53M model during pretraining, without and with the helix prior: with the prior they form a helix"><img src='images/manifold_thumb.jpg' alt="The numbers 0 to 999 inside a 53M model after pretraining, without and with the helix prior"></video><script>if (window.matchMedia && matchMedia('(prefers-reduced-motion: reduce)').matches) { var v = document.currentScript.previousElementSibling; v.removeAttribute('autoplay'); v.pause(); }</script></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a id="manifold">[Manifold Pretraining Engineering: Right Geometry, Right Time, Right Place](https://yihuaihong.github.io/manifolds/)</a>  
