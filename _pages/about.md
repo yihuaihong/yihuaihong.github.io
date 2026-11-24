@@ -28,7 +28,7 @@ My research story revolves around the <span style="color:black; font-weight:bold
 
 - {: .branch .branch--cap} **Interpretability for Capability** <span class="branch-def">making models learn faster, reason better, and run more efficiently</span>
      - {: .subgroup} Training & Architecture
-          - Manifold Pretraining Engineering [[Preprint 2026](https://yihuaihong.github.io/manifolds/)]
+          - Manifold Pretraining Engineering [[Preprint 2026](https://yihuaihong.github.io/manifolds/)]<span class="new-tag">New</span>
           - LooM: Latent Looped Reasoning Model <span class="wip">In progress</span>
           - LLM Knowledge Distribution [[NeurIPS 2025](http://arxiv.org/abs/2505.17260)]
      - {: .subgroup} Post-hoc Intervention
@@ -37,7 +37,7 @@ My research story revolves around the <span style="color:black; font-weight:bold
           - LLM Efficient Inference [[AAAI 2024 main track](https://ojs.aaai.org/index.php/AAAI/article/view/29922)]
 - {: .branch .branch--safe} **Interpretability for Safety** <span class="branch-def">checking from the inside what models really know, compute, and do</span>
      - {: .subgroup} LLM Oversight
-          - CoT Monitoring: CoT-Interpretability Alignment [[Preprint 2026](https://arxiv.org/abs/2609.38972)]
+          - CoT Monitoring: CoT-Interpretability Alignment [[Preprint 2026](https://arxiv.org/abs/2609.38972)]<span class="new-tag">New</span>
           - Roots of Misalignment <span class="wip">In progress</span>
      - {: .subgroup} LLM Unlearning
           - Parametric Knowledge Benchmark [[EMNLP 2025 Main](https://arxiv.org/abs/2406.11614)]
@@ -77,7 +77,7 @@ Before my PhD career, I was very fortunate to work with <a href="https://mega002
 
 [Website](https://yihuaihong.github.io/manifolds/) / Arxiv (coming soon) / [GitHub](https://github.com/yihuaihong/manifolds) / [Huggingface](https://huggingface.co/YihuaiHong/manifold-pretraining-engineering)
 
-<span class="venue">Preprint 2026</span> <span class="venue venue--new">New</span>
+<span class="venue">Preprint 2026</span>
 
 We turn the manifolds that interpretability has found inside language models, such as a helix for numbers, into an auxiliary pretraining loss. A helix prior raises the held-out addition accuracy of a 53M model pretrained on scarce arithmetic data from 18% to 70% (averaged over training), with an advantage at every size up to 1.07B parameters; six priors used together reach the final accuracy of the best model without priors after only 8–30% of training.
 
@@ -94,7 +94,7 @@ We turn the manifolds that interpretability has found inside language models, su
 
 [Arxiv](https://arxiv.org/abs/2609.38972) / [GitHub](https://github.com/yihuaihong/CIA-minimal-repro)
 
-<span class="venue">Preprint 2026</span> <span class="venue venue--new">New</span>
+<span class="venue">Preprint 2026</span>
 
 We propose CoT-Interpretability Alignment (CIA), which measures whether an LLM's chain-of-thought matches the reasoning strategy that interpretability tools detect inside the model, and find limited alignment (44.8–75.9%) across three tasks and three LLMs. Using CIA as a post-training reward substantially improves this alignment while maintaining or improving task accuracy.
 
