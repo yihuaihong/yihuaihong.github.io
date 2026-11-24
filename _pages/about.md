@@ -68,7 +68,7 @@ Before my PhD career, I was very fortunate to work with <a href="https://mega002
 
 # 📝 Research
 
-<div class='paper-box'><div class='paper-box-image'><div><video src='images/manifold_fig1.mp4' poster='images/manifold_fig1.jpg' autoplay muted loop playsinline aria-label="Figure 1 of the paper, animated: number representations without and with the helix prior, and the learning curves, during pretraining and fine-tuning"><img src='images/manifold_fig1.jpg' alt="Figure 1 of the paper: number representations without and with the helix prior, and the learning curves, in pretraining and fine-tuning"></video><script>if (window.matchMedia && matchMedia('(prefers-reduced-motion: reduce)').matches) { var v = document.currentScript.previousElementSibling; v.removeAttribute('autoplay'); v.pause(); }</script></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><video src='images/manifold_fig1.mp4?v=3' poster='images/manifold_fig1.jpg?v=3' autoplay muted loop playsinline aria-label="Figure 1 of the paper, animated: number representations without and with the helix prior, and the learning curves, during pretraining and fine-tuning"><img src='images/manifold_fig1.jpg' alt="Figure 1 of the paper: number representations without and with the helix prior, and the learning curves, in pretraining and fine-tuning"></video><script>if (window.matchMedia && matchMedia('(prefers-reduced-motion: reduce)').matches) { var v = document.currentScript.previousElementSibling; v.removeAttribute('autoplay'); v.pause(); }</script></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a id="manifold">[Manifold Pretraining Engineering: Right Geometry, Right Time, Right Place](https://yihuaihong.github.io/manifolds/)</a>  
