@@ -79,7 +79,7 @@ Before my PhD career, I was very fortunate to work with <a href="https://mega002
 
 <span class="venue">Preprint 2026</span>
 
-We turn the manifolds that interpretability has found inside language models, such as a helix for numbers, into an auxiliary pretraining loss. A helix prior raises the held-out addition accuracy of a 53M model pretrained on scarce arithmetic data from 18% to 70% (averaged over training), with an advantage at every size up to 1.07B parameters; six priors used together reach the final accuracy of the best model without priors after only 8–30% of training.
+We turn the manifolds that interpretability has found inside language models, such as a helix for numbers, into an auxiliary pretraining loss. A helix prior raises the held-out addition accuracy of a 53M model pretrained on scarce arithmetic data from 18% to 70% (averaged over training), with an advantage at every size up to 1.07B parameters. Six priors used together reach the final accuracy of the best model without priors after only 8–30% of training, and at 1.07B, the largest model we train, they raise accuracy by 49.9 points on numbers and 45.0 on dimensions in every seed, at no language-modelling cost on average.
 
 </div>
 </div>
